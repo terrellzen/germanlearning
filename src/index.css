@@ -217,3 +217,38 @@ footer { display: flex; justify-content: space-between; gap: 20px; margin-top: 4
 }
 .theme { display: inline-flex; align-items: center; gap: 7px; }
 .theme::before { content: ""; width: 11px; height: 11px; border: 1px solid currentColor; border-radius: 50%; box-shadow: inset 4px 0 currentColor; }
+
+/* A landscape phone needs a study layout based on height, not desktop width. */
+@media (orientation: landscape) and (max-height: 500px) and (max-width: 1100px) {
+  .app:has(.presentation) { height: 100dvh; min-height: 0; display: flex; flex-direction: column; }
+  .app:has(.presentation) > .topbar { display: none; }
+  .presentation {
+    width: 100%; height: 100%; min-height: 0; max-width: none;
+    padding: max(4px, env(safe-area-inset-top)) max(10px, env(safe-area-inset-right)) max(4px, env(safe-area-inset-bottom)) max(10px, env(safe-area-inset-left));
+  }
+  .study-top { flex: 0 0 36px; gap: 8px; }
+  .study-top > span { display: none; }
+  .study-top button { min-height: 36px; padding: 7px 11px; font-size: 11px; }
+  .study-content {
+    display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr);
+    flex: 1 1 0; min-height: 0; padding: 4px 0 8px; gap: 6px 0;
+  }
+  .study-content > .eyebrow { grid-column: 1 / -1; flex-direction: row; justify-content: center; gap: 12px; font-size: 8px; letter-spacing: 1px; }
+  .study-content .exercise-label { font-size: 9px; }
+  .question-side, .answer { grid-row: 2; min-width: 0; padding: 0 12px; }
+  .question-side { grid-column: 1; }
+  .answer { grid-column: 2; border-left: 1px solid var(--border); }
+  .study-content:not(:has(.answer)) .question-side { grid-column: 1 / -1; width: min(720px, 100%); justify-self: center; }
+  .study-content h1, .answer h2 { font-size: clamp(18px, 6.5dvh, 32px); line-height: 1.1; letter-spacing: -.6px; margin: 0 0 10px; }
+  .answer-rule, .recall-hint, .keyboard-hint { display: none; }
+  .example, .question-side .example { margin: 0 auto; font-size: clamp(11px, 3.5dvh, 15px); line-height: 1.35; overflow-wrap: anywhere; }
+  .example-heading { font-size: 8px; letter-spacing: 1px; margin-bottom: 5px; }
+  .grammar { margin: 0 0 7px; font-size: 10px; line-height: 1.25; }
+  .study-bottom { flex: 0 0 auto; max-width: none; margin: 0; }
+  .countdown { display: flex; align-items: center; gap: 8px; max-width: 270px; margin: 0 auto 4px; font-size: 10px; line-height: 1.2; }
+  .countdown > span { white-space: nowrap; }
+  .countdown > div { flex: 1; margin: 0; }
+  .playback { flex-wrap: nowrap; gap: 3px; padding: 3px; border-radius: 14px; }
+  .playback button { min-height: 40px; padding: 7px 11px; font-size: 11px; white-space: nowrap; }
+  .playback .primary-control { min-width: 0; }
+}

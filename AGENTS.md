@@ -37,4 +37,6 @@ VITE_BASE_PATH=/germanlearning/ npm run build
 
 For visible UI or playback changes, run `npm run dev` on port 5173, install Playwright Chromium once with `npx playwright install chromium`, then run `npm run test:browser`. An existing browser executable can be supplied with `CHROMIUM_PATH`. For a hosted build, set `BASE_URL` to its full URL. Inspect desktop and mobile screenshots, and verify both themes when changing styles.
 
+For phone landscape layout changes, also run `npm run test:landscape`. It checks long real vocabulary cards at four landscape sizes, both themes/modes/directions, rotation, and text/control bounds. Keep content visible rather than masking overflow.
+
 Source lives on `main` at `terrellzen/germanlearning`. After committing source changes, use `npm run deploy:pages` to publish a verified build to `gh-pages`. The Actions alternative lives in `deployment/github-actions.yml`; enabling it needs GitHub workflow permission. Keep the GitHub Pages publication configuration documented in README.md. Verify successful deployment and the public manifest/assets before claiming the site is live. Never commit credentials, local translation models, `node_modules/`, `dist/`, browser screenshots, or generated ZIP download bundles. Do not force-push or rewrite remote history as part of routine updates.

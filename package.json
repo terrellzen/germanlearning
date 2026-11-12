@@ -11,7 +11,8 @@
     "import:vocab": "tsx scripts/import-vocabulary.ts",
     "validate:vocab": "tsx scripts/validate-vocabulary.ts",
     "test:browser": "node scripts/browser-smoke.mjs",
-    "deploy:pages": "node scripts/deploy-pages.mjs"
+    "deploy:pages": "node scripts/deploy-pages.mjs",
+    "test:landscape": "node scripts/landscape-smoke.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",
