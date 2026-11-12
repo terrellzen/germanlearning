@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.zip
+data/*preview.png
+# Actions template is tracked under deployment/ until workflow access is enabled.
+.github/workflows/deploy.yml

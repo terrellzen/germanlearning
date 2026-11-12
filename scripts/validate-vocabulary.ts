@@ -1,0 +1,4 @@
+import fs from 'node:fs';
+import {validVocabulary} from '../src/types';
+const manifest=JSON.parse(fs.readFileSync('public/data/manifest.json','utf8'));
+for(const c of manifest.collections){const rows=JSON.parse(fs.readFileSync(`public/data/${c.file}`,'utf8'));if(!Array.isArray(rows)||!rows.every(validVocabulary)||rows.length!==c.count||new Set(rows.map(r=>r.id)).size!==rows.length)throw new Error(`Invalid collection ${c.id}`);const missing=rows.filter(r=>r.type==='general' && !r.example?.trim());if(missing.length)throw new Error(`${c.name}: ${missing.length} entries need examples in data-source/general-examples.csv`);const untranslated=rows.filter(r=>r.example?.trim() && !r.exampleTranslation?.trim());if(untranslated.length)throw new Error(`${c.name}: ${untranslated.length} examples need English translations in data-source/example-translations.csv`);console.log(`${c.name}: ${rows.length} valid entries with paired example languages`);}

@@ -1,0 +1,724 @@
+#separator:tab
+#html:false
+#deck column:1
+#tags column:4
+Verbs::English to Infinitiv	to bake  Wie heißt das Verb auf Deutsch?	backen  Beispiel: Ich backe heute einen Kuchen.  Gebrauch: Akk	bake to
+Verbs::English to Infinitiv	to command; order  Wie heißt das Verb auf Deutsch?	befehlen  Beispiel: Der Chef befiehlt ihm zu warten.  Gebrauch: (Dat) + Inf.K.	command; order to
+Verbs::English to Infinitiv	to begin; start  Wie heißt das Verb auf Deutsch?	beginnen  Beispiel: Der Unterricht beginnt um neun Uhr.  Gebrauch: Akk	begin; start to
+Verbs::English to Infinitiv	to bite  Wie heißt das Verb auf Deutsch?	beißen  Beispiel: Der Hund beißt den Mann.  Gebrauch: Akk	bite to
+Verbs::English to Infinitiv	to recover; rescue; conceal  Wie heißt das Verb auf Deutsch?	bergen  Beispiel: Die Feuerwehr birgt den Verletzten.  Gebrauch: Akk	conceal recover; rescue; to
+Verbs::English to Infinitiv	to burst; split  Wie heißt das Verb auf Deutsch?	bersten  Beispiel: Das Glas birst unter dem Druck.  Gebrauch: —	burst; split to
+Verbs::English to Infinitiv	to cheat; deceive  Wie heißt das Verb auf Deutsch?	betrügen  Beispiel: Er betrügt seinen Geschäftspartner.  Gebrauch: Akk	cheat; deceive to
+Verbs::English to Infinitiv	to move; induce  Wie heißt das Verb auf Deutsch?	bewegen  Beispiel: Die Nachricht bewegt viele Menschen.  Gebrauch: Akk + Inf.K.	induce move; to
+Verbs::English to Infinitiv	to bend; turn  Wie heißt das Verb auf Deutsch?	biegen  Beispiel: Bieg an der nächsten Straße rechts ab.  Gebrauch: Akk	bend; to turn
+Verbs::English to Infinitiv	to offer  Wie heißt das Verb auf Deutsch?	bieten  Beispiel: Sie bietet mir einen Kaffee an.  Gebrauch: Dat + Akk	offer to
+Verbs::English to Infinitiv	to bind; tie  Wie heißt das Verb auf Deutsch?	binden  Beispiel: Ich binde meine Schuhe.  Gebrauch: Akk	bind; tie to
+Verbs::English to Infinitiv	to ask; request  Wie heißt das Verb auf Deutsch?	bitten  Beispiel: Ich bitte dich um Hilfe.  Gebrauch: Akk + Inf.K.	ask; request to
+Verbs::English to Infinitiv	to blow  Wie heißt das Verb auf Deutsch?	blasen  Beispiel: Der Wind bläst sehr stark.  Gebrauch: (Akk)	blow to
+Verbs::English to Infinitiv	to stay; remain  Wie heißt das Verb auf Deutsch?	bleiben  Beispiel: Ich bleibe heute zu Hause.  Gebrauch: (Nom)	remain stay; to
+Verbs::English to Infinitiv	to fry; roast; grill  Wie heißt das Verb auf Deutsch?	braten  Beispiel: Sie brät das Gemüse in der Pfanne.  Gebrauch: Akk	fry; grill roast; to
+Verbs::English to Infinitiv	to break  Wie heißt das Verb auf Deutsch?	brechen  Beispiel: Er bricht den Stock in zwei Teile.  Gebrauch: (Dat) + Akk	break to
+Verbs::English to Infinitiv	to burn  Wie heißt das Verb auf Deutsch?	brennen  Beispiel: Das Feuer brennt die ganze Nacht.  Gebrauch: —	burn to
+Verbs::English to Infinitiv	to bring  Wie heißt das Verb auf Deutsch?	bringen  Beispiel: Ich bringe dir morgen das Buch.  Gebrauch: Dat + Akk	bring to
+Verbs::English to Infinitiv	to think  Wie heißt das Verb auf Deutsch?	denken  Beispiel: Ich denke oft an meine Familie.  Gebrauch: (Dat)	think to
+Verbs::English to Infinitiv	to hire; engage  Wie heißt das Verb auf Deutsch?	dingen  Beispiel: Der Händler dingt einen Arbeiter.  Gebrauch: Akk	engage hire; to
+Verbs::English to Infinitiv	to thresh  Wie heißt das Verb auf Deutsch?	dreschen  Beispiel: Der Bauer drischt das Getreide.  Gebrauch: Akk	thresh to
+Verbs::English to Infinitiv	to penetrate; press  Wie heißt das Verb auf Deutsch?	dringen  Beispiel: Wasser dringt durch das Dach.  Gebrauch: —	penetrate; press to
+Verbs::English to Infinitiv	may; to be allowed to  Wie heißt das Verb auf Deutsch?	dürfen  Beispiel: Du darfst hier parken.  Gebrauch: Modalverb	allowed be may; to
+Verbs::English to Infinitiv	to recommend  Wie heißt das Verb auf Deutsch?	empfehlen  Beispiel: Ich empfehle dir dieses Buch.  Gebrauch: (Dat) + Inf.K.	recommend to
+Verbs::English to Infinitiv	to go out; expire  Wie heißt das Verb auf Deutsch?	erlöschen  Beispiel: Das Licht erlischt plötzlich.  Gebrauch: —	expire go out; to
+Verbs::English to Infinitiv	to be startled; get frightened  Wie heißt das Verb auf Deutsch?	erschrecken  Beispiel: Ich erschrecke bei dem lauten Geräusch.  Gebrauch: —	be frightened get startled; to
+Verbs::English to Infinitiv	to consider  Wie heißt das Verb auf Deutsch?	erwägen  Beispiel: Wir erwägen einen Umzug.  Gebrauch: Akk	consider leech to
+Verbs::English to Infinitiv	to eat  Wie heißt das Verb auf Deutsch?	essen  Beispiel: Wir essen heute zusammen.  Gebrauch: Akk	eat to
+Verbs::English to Infinitiv	to drive; travel  Wie heißt das Verb auf Deutsch?	fahren  Beispiel: Ich fahre mit dem Zug nach Berlin.  Gebrauch: (Akk)	drive; to travel
+Verbs::English to Infinitiv	to fall  Wie heißt das Verb auf Deutsch?	fallen  Beispiel: Das Glas fällt auf den Boden.  Gebrauch: —	fall to
+Verbs::English to Infinitiv	to catch  Wie heißt das Verb auf Deutsch?	fangen  Beispiel: Sie fängt den Ball.  Gebrauch: Akk	catch to
+Verbs::English to Infinitiv	to fence; fight  Wie heißt das Verb auf Deutsch?	fechten  Beispiel: Die beiden Sportler fechten gegeneinander.  Gebrauch: —	fence; fight to
+Verbs::English to Infinitiv	to find  Wie heißt das Verb auf Deutsch?	finden  Beispiel: Ich finde meine Schlüssel nicht.  Gebrauch: Akk	find to
+Verbs::English to Infinitiv	to braid; weave  Wie heißt das Verb auf Deutsch?	flechten  Beispiel: Sie flicht ihrer Tochter die Haare.  Gebrauch: Akk	braid; to weave
+Verbs::English to Infinitiv	to fly  Wie heißt das Verb auf Deutsch?	fliegen  Beispiel: Wir fliegen morgen nach Spanien.  Gebrauch: (Akk)	fly to
+Verbs::English to Infinitiv	to flee  Wie heißt das Verb auf Deutsch?	fliehen  Beispiel: Die Menschen fliehen vor dem Feuer.  Gebrauch: —	flee to
+Verbs::English to Infinitiv	to flow  Wie heißt das Verb auf Deutsch?	fließen  Beispiel: Der Fluss fließt durch die Stadt.  Gebrauch: —	flow to
+Verbs::English to Infinitiv	to eat (animals)  Wie heißt das Verb auf Deutsch?	fressen  Beispiel: Der Hund frisst sein Futter.  Gebrauch: Akk	(animals) eat to
+Verbs::English to Infinitiv	to freeze; be cold  Wie heißt das Verb auf Deutsch?	frieren  Beispiel: Ich friere ohne meine Jacke.  Gebrauch: —	be cold freeze; to
+Verbs::English to Infinitiv	to ferment  Wie heißt das Verb auf Deutsch?	gären  Beispiel: Der Saft beginnt zu gären.  Gebrauch: —	ferment to
+Verbs::English to Infinitiv	to give birth  Wie heißt das Verb auf Deutsch?	gebären  Beispiel: Sie gebärt ein gesundes Kind.  Gebrauch: (Akk)	birth give to
+Verbs::English to Infinitiv	to give  Wie heißt das Verb auf Deutsch?	geben  Beispiel: Ich gebe meinem Freund das Buch.  Gebrauch: Dat + Akk	give to
+Verbs::English to Infinitiv	to thrive  Wie heißt das Verb auf Deutsch?	gedeihen  Beispiel: Die Pflanzen gedeihen im warmen Klima.  Gebrauch: —	thrive to
+Verbs::English to Infinitiv	to go; walk  Wie heißt das Verb auf Deutsch?	gehen  Beispiel: Ich gehe jeden Morgen zur Arbeit.  Gebrauch: —	go; to walk
+Verbs::English to Infinitiv	to succeed  Wie heißt das Verb auf Deutsch?	gelingen  Beispiel: Der Kuchen gelingt mir heute gut.  Gebrauch: (Dat) + Inf.K.	succeed to
+Verbs::English to Infinitiv	to apply; be valid; count  Wie heißt das Verb auf Deutsch?	gelten  Beispiel: Diese Regel gilt für alle.  Gebrauch: —	apply; be count to valid;
+Verbs::English to Infinitiv	to recover; convalesce  Wie heißt das Verb auf Deutsch?	genesen  Beispiel: Er genest langsam von seiner Krankheit.  Gebrauch: —	convalesce recover; to
+Verbs::English to Infinitiv	to enjoy  Wie heißt das Verb auf Deutsch?	genießen  Beispiel: Wir genießen das schöne Wetter.  Gebrauch: Akk	enjoy to
+Verbs::English to Infinitiv	to happen  Wie heißt das Verb auf Deutsch?	geschehen  Beispiel: Was ist hier geschehen?  Gebrauch: (Dat)	happen to
+Verbs::English to Infinitiv	to win; gain  Wie heißt das Verb auf Deutsch?	gewinnen  Beispiel: Unsere Mannschaft gewinnt das Spiel.  Gebrauch: Akk	gain to win;
+Verbs::English to Infinitiv	to pour; water  Wie heißt das Verb auf Deutsch?	gießen  Beispiel: Ich gieße jeden Abend die Pflanzen.  Gebrauch: Akk	pour; to water
+Verbs::English to Infinitiv	to resemble; equal  Wie heißt das Verb auf Deutsch?	gleichen  Beispiel: Das Kind gleicht seinem Vater.  Gebrauch: Dat	equal resemble; to
+Verbs::English to Infinitiv	to glide; slide  Wie heißt das Verb auf Deutsch?	gleiten  Beispiel: Das Boot gleitet über das Wasser.  Gebrauch: —	glide; slide to
+Verbs::English to Infinitiv	to glow; smolder  Wie heißt das Verb auf Deutsch?	glimmen  Beispiel: Die Kohlen glimmen noch.  Gebrauch: —	glow; smolder to
+Verbs::English to Infinitiv	to dig  Wie heißt das Verb auf Deutsch?	graben  Beispiel: Der Hund gräbt ein Loch.  Gebrauch: (Dat) + Akk	dig to
+Verbs::English to Infinitiv	to grab; reach  Wie heißt das Verb auf Deutsch?	greifen  Beispiel: Sie greift nach ihrer Tasche.  Gebrauch: —	grab; reach to
+Verbs::English to Infinitiv	to have  Wie heißt das Verb auf Deutsch?	haben  Beispiel: Ich habe heute viel Zeit.  Gebrauch: Akk	have to
+Verbs::English to Infinitiv	to hold; stop  Wie heißt das Verb auf Deutsch?	halten  Beispiel: Der Bus hält an der nächsten Haltestelle.  Gebrauch: —	hold; stop to
+Verbs::English to Infinitiv	to hang  Wie heißt das Verb auf Deutsch?	hängen  Beispiel: Das Bild hängt an der Wand.  Gebrauch: (Akk)	hang to
+Verbs::English to Infinitiv	to hit; chop  Wie heißt das Verb auf Deutsch?	hauen  Beispiel: Er haut mit dem Hammer auf den Nagel.  Gebrauch: —	chop hit; to
+Verbs::English to Infinitiv	to lift; raise  Wie heißt das Verb auf Deutsch?	heben  Beispiel: Kannst du die Kiste heben?  Gebrauch: Akk	lift; raise to
+Verbs::English to Infinitiv	to be called; mean  Wie heißt das Verb auf Deutsch?	heißen  Beispiel: Wie heißt du?  Gebrauch: —	be called; mean to
+Verbs::English to Infinitiv	to help  Wie heißt das Verb auf Deutsch?	helfen  Beispiel: Kannst du mir bitte helfen?  Gebrauch: Dat	help to
+Verbs::English to Infinitiv	to know; be familiar with  Wie heißt das Verb auf Deutsch?	kennen  Beispiel: Ich kenne diese Stadt gut.  Gebrauch: Akk	be familiar know; to with
+Verbs::English to Infinitiv	to climb  Wie heißt das Verb auf Deutsch?	klimmen  Beispiel: Der Bergsteiger klimmt auf den Gipfel.  Gebrauch: —	climb to
+Verbs::English to Infinitiv	to sound  Wie heißt das Verb auf Deutsch?	klingen  Beispiel: Das klingt nach einer guten Idee.  Gebrauch: —	sound to
+Verbs::English to Infinitiv	to pinch  Wie heißt das Verb auf Deutsch?	kneifen  Beispiel: Der Schuh kneift an der Ferse.  Gebrauch: Akk	pinch to
+Verbs::English to Infinitiv	to come  Wie heißt das Verb auf Deutsch?	kommen  Beispiel: Meine Freunde kommen heute Abend.  Gebrauch: —	come to
+Verbs::English to Infinitiv	can; to be able to  Wie heißt das Verb auf Deutsch?	können  Beispiel: Ich kann ein bisschen Deutsch sprechen.  Gebrauch: Modalverb	able be can; to
+Verbs::English to Infinitiv	to crawl  Wie heißt das Verb auf Deutsch?	kriechen  Beispiel: Das Baby kriecht über den Boden.  Gebrauch: —	crawl to
+Verbs::English to Infinitiv	to load; invite  Wie heißt das Verb auf Deutsch?	laden  Beispiel: Ich lade meine Freunde zur Party ein.  Gebrauch: Akk	invite load; to
+Verbs::English to Infinitiv	to let; leave  Wie heißt das Verb auf Deutsch?	lassen  Beispiel: Lass das Fenster bitte offen.  Gebrauch: (Dat) + Akk	leave let; to
+Verbs::English to Infinitiv	to run; walk  Wie heißt das Verb auf Deutsch?	laufen  Beispiel: Ich laufe jeden Morgen im Park.  Gebrauch: (Akk)	run; to walk
+Verbs::English to Infinitiv	to suffer  Wie heißt das Verb auf Deutsch?	leiden  Beispiel: Er leidet unter starken Kopfschmerzen.  Gebrauch: —	suffer to
+Verbs::English to Infinitiv	to lend; borrow  Wie heißt das Verb auf Deutsch?	leihen  Beispiel: Kannst du mir dein Fahrrad leihen?  Gebrauch: Dat + Akk	borrow lend; to
+Verbs::English to Infinitiv	to read  Wie heißt das Verb auf Deutsch?	lesen  Beispiel: Ich lese jeden Abend ein Buch.  Gebrauch: Akk	read to
+Verbs::English to Infinitiv	to lie; be located  Wie heißt das Verb auf Deutsch?	liegen  Beispiel: Das Handy liegt auf dem Tisch.  Gebrauch: —	be lie; located to
+Verbs::English to Infinitiv	to lie (tell an untruth)  Wie heißt das Verb auf Deutsch?	lügen  Beispiel: Du sollst mich nicht anlügen.  Gebrauch: —	(tell an lie to untruth)
+Verbs::English to Infinitiv	to grind  Wie heißt das Verb auf Deutsch?	mahlen  Beispiel: Die Mühle mahlt das Getreide.  Gebrauch: Akk	grind to
+Verbs::English to Infinitiv	to avoid  Wie heißt das Verb auf Deutsch?	meiden  Beispiel: Ich meide diese Straße nachts.  Gebrauch: Akk	avoid to
+Verbs::English to Infinitiv	to milk  Wie heißt das Verb auf Deutsch?	melken  Beispiel: Der Bauer melkt die Kuh.  Gebrauch: Akk	milk to
+Verbs::English to Infinitiv	to measure  Wie heißt das Verb auf Deutsch?	messen  Beispiel: Ich messe die Länge des Tisches.  Gebrauch: Akk	measure to
+Verbs::English to Infinitiv	to like  Wie heißt das Verb auf Deutsch?	mögen  Beispiel: Ich mag deutschen Kaffee.  Gebrauch: Akk	like to
+Verbs::English to Infinitiv	would like  Wie heißt das Verb auf Deutsch?	mögen  Beispiel: Ich möchte einen Kaffee trinken.  Gebrauch: Modalverb	like would
+Verbs::English to Infinitiv	must; to have to  Wie heißt das Verb auf Deutsch?	müssen  Beispiel: Ich muss morgen früh arbeiten.  Gebrauch: Modalverb	have must; to
+Verbs::English to Infinitiv	to take  Wie heißt das Verb auf Deutsch?	nehmen  Beispiel: Ich nehme den nächsten Bus.  Gebrauch: Akk	take to
+Verbs::English to Infinitiv	to name; call  Wie heißt das Verb auf Deutsch?	nennen  Beispiel: Sie nennt ihren Hund Max.  Gebrauch: Akk + Akk	call name; to
+Verbs::English to Infinitiv	to whistle  Wie heißt das Verb auf Deutsch?	pfeifen  Beispiel: Er pfeift ein bekanntes Lied.  Gebrauch: Akk	to whistle
+Verbs::English to Infinitiv	to praise  Wie heißt das Verb auf Deutsch?	preisen  Beispiel: Die Kritiker preisen den neuen Film.  Gebrauch: Akk	praise to
+Verbs::English to Infinitiv	to swell; well up  Wie heißt das Verb auf Deutsch?	quellen  Beispiel: Der Reis quillt im Wasser.  Gebrauch: —	swell; to up well
+Verbs::English to Infinitiv	to advise; guess  Wie heißt das Verb auf Deutsch?	raten  Beispiel: Ich rate dir, früher zu gehen.  Gebrauch: (Dat) + Inf.K.	advise; guess to
+Verbs::English to Infinitiv	to rub  Wie heißt das Verb auf Deutsch?	reiben  Beispiel: Ich reibe den Fleck mit einem Tuch.  Gebrauch: Akk	rub to
+Verbs::English to Infinitiv	to tear; rip  Wie heißt das Verb auf Deutsch?	reißen  Beispiel: Das Papier reißt sehr leicht.  Gebrauch: —	rip tear; to
+Verbs::English to Infinitiv	to ride (a horse)  Wie heißt das Verb auf Deutsch?	reiten  Beispiel: Sie reitet jeden Samstag.  Gebrauch: (Akk)	(a horse) ride to
+Verbs::English to Infinitiv	to run; race  Wie heißt das Verb auf Deutsch?	rennen  Beispiel: Er rennt schnell zum Bahnhof.  Gebrauch: —	race run; to
+Verbs::English to Infinitiv	to smell  Wie heißt das Verb auf Deutsch?	riechen  Beispiel: Die Blumen riechen sehr gut.  Gebrauch: Akk	smell to
+Verbs::English to Infinitiv	to wrestle; struggle  Wie heißt das Verb auf Deutsch?	ringen  Beispiel: Die beiden kämpfen und ringen miteinander.  Gebrauch: —	struggle to wrestle;
+Verbs::English to Infinitiv	to trickle; flow  Wie heißt das Verb auf Deutsch?	rinnen  Beispiel: Wasser rinnt über die Scheibe.  Gebrauch: —	flow to trickle;
+Verbs::English to Infinitiv	to call; shout  Wie heißt das Verb auf Deutsch?	rufen  Beispiel: Ich rufe dich später an.  Gebrauch: Akk	call; shout to
+Verbs::English to Infinitiv	to salt  Wie heißt das Verb auf Deutsch?	salzen  Beispiel: Ich salze die Suppe.  Gebrauch: Akk	salt to
+Verbs::English to Infinitiv	to drink (animals/colloquial)  Wie heißt das Verb auf Deutsch?	saufen  Beispiel: Der Hund säuft Wasser aus der Schüssel.  Gebrauch: Akk	(animals/colloquial) drink to
+Verbs::English to Infinitiv	to suck  Wie heißt das Verb auf Deutsch?	saugen  Beispiel: Der Staubsauger saugt den Staub auf.  Gebrauch: Akk	suck to
+Verbs::English to Infinitiv	to create  Wie heißt das Verb auf Deutsch?	schaffen  Beispiel: Die Künstlerin schafft ein neues Werk.  Gebrauch: Akk	create to
+Verbs::English to Infinitiv	to separate; divorce  Wie heißt das Verb auf Deutsch?	scheiden  Beispiel: Das Paar lässt sich scheiden.  Gebrauch: (Akk)	divorce separate; to
+Verbs::English to Infinitiv	to shine; seem  Wie heißt das Verb auf Deutsch?	scheinen  Beispiel: Heute scheint die Sonne.  Gebrauch: —	seem shine; to
+Verbs::English to Infinitiv	to defecate (vulgar)  Wie heißt das Verb auf Deutsch?	scheißen  Beispiel: Der Hund scheißt auf den Rasen.  Gebrauch: —	(vulgar) defecate to
+Verbs::English to Infinitiv	to scold  Wie heißt das Verb auf Deutsch?	schelten  Beispiel: Die Mutter schilt das unartige Kind.  Gebrauch: Akk	scold to
+Verbs::English to Infinitiv	to shear  Wie heißt das Verb auf Deutsch?	scheren  Beispiel: Der Bauer schert die Schafe.  Gebrauch: Akk	shear to
+Verbs::English to Infinitiv	to push  Wie heißt das Verb auf Deutsch?	schieben  Beispiel: Ich schiebe den Wagen nach vorne.  Gebrauch: Akk	push to
+Verbs::English to Infinitiv	to shoot  Wie heißt das Verb auf Deutsch?	schießen  Beispiel: Er schießt den Ball ins Tor.  Gebrauch: (Akk)	shoot to
+Verbs::English to Infinitiv	to sleep  Wie heißt das Verb auf Deutsch?	schlafen  Beispiel: Ich schlafe normalerweise acht Stunden.  Gebrauch: —	sleep to
+Verbs::English to Infinitiv	to hit; beat  Wie heißt das Verb auf Deutsch?	schlagen  Beispiel: Er schlägt den Ball über das Netz.  Gebrauch: Akk	beat hit; to
+Verbs::English to Infinitiv	to sneak; creep  Wie heißt das Verb auf Deutsch?	schleichen  Beispiel: Die Katze schleicht durch den Garten.  Gebrauch: —	creep sneak; to
+Verbs::English to Infinitiv	to grind; sharpen  Wie heißt das Verb auf Deutsch?	schleifen  Beispiel: Er schleift das Messer.  Gebrauch: Akk	grind; sharpen to
+Verbs::English to Infinitiv	to close; lock  Wie heißt das Verb auf Deutsch?	schließen  Beispiel: Bitte schließ die Tür.  Gebrauch: Akk	close; lock to
+Verbs::English to Infinitiv	to gulp; wind  Wie heißt das Verb auf Deutsch?	schlingen  Beispiel: Er schlingt sein Essen hinunter.  Gebrauch: —	gulp; to wind
+Verbs::English to Infinitiv	to throw  Wie heißt das Verb auf Deutsch?	schmeißen  Beispiel: Sie schmeißt den Ball zu mir.  Gebrauch: —	throw to
+Verbs::English to Infinitiv	to melt  Wie heißt das Verb auf Deutsch?	schmelzen  Beispiel: Das Eis schmilzt in der Sonne.  Gebrauch: (Akk)	melt to
+Verbs::English to Infinitiv	to cut  Wie heißt das Verb auf Deutsch?	schneiden  Beispiel: Ich schneide das Brot.  Gebrauch: Akk	cut to
+Verbs::English to Infinitiv	to write  Wie heißt das Verb auf Deutsch?	schreiben  Beispiel: Ich schreibe meiner Freundin eine Nachricht.  Gebrauch: (Dat) + Akk	to write
+Verbs::English to Infinitiv	to scream; shout  Wie heißt das Verb auf Deutsch?	schreien  Beispiel: Das Kind schreit sehr laut.  Gebrauch: —	scream; shout to
+Verbs::English to Infinitiv	to stride  Wie heißt das Verb auf Deutsch?	schreiten  Beispiel: Er schreitet langsam durch den Saal.  Gebrauch: —	stride to
+Verbs::English to Infinitiv	to be silent  Wie heißt das Verb auf Deutsch?	schweigen  Beispiel: Alle schweigen für einen Moment.  Gebrauch: —	be silent to
+Verbs::English to Infinitiv	to swell  Wie heißt das Verb auf Deutsch?	schwellen  Beispiel: Sein Fuß schwillt nach dem Unfall an.  Gebrauch: —	swell to
+Verbs::English to Infinitiv	to swim  Wie heißt das Verb auf Deutsch?	schwimmen  Beispiel: Wir schwimmen im See.  Gebrauch: (Akk)	swim to
+Verbs::English to Infinitiv	to swing  Wie heißt das Verb auf Deutsch?	schwingen  Beispiel: Das Pendel schwingt hin und her.  Gebrauch: —	swing to
+Verbs::English to Infinitiv	to swear  Wie heißt das Verb auf Deutsch?	schwören  Beispiel: Ich schwöre dir, dass es stimmt.  Gebrauch: (Dat) + Akk	swear to
+Verbs::English to Infinitiv	to see  Wie heißt das Verb auf Deutsch?	sehen  Beispiel: Ich sehe meine Freunde am Wochenende.  Gebrauch: Akk	see to
+Verbs::English to Infinitiv	to be  Wie heißt das Verb auf Deutsch?	sein  Beispiel: Ich bin heute sehr müde.  Gebrauch: (Nom)	be to
+Verbs::English to Infinitiv	to send  Wie heißt das Verb auf Deutsch?	senden  Beispiel: Ich sende dir die Datei per E-Mail.  Gebrauch: Akk	send to
+Verbs::English to Infinitiv	to sing  Wie heißt das Verb auf Deutsch?	singen  Beispiel: Sie singt ihr Lieblingslied.  Gebrauch: Akk	sing to
+Verbs::English to Infinitiv	to sink  Wie heißt das Verb auf Deutsch?	sinken  Beispiel: Das Schiff sinkt langsam.  Gebrauch: —	sink to
+Verbs::English to Infinitiv	to ponder  Wie heißt das Verb auf Deutsch?	sinnen  Beispiel: Er sinnt lange über die Frage nach.  Gebrauch: —	ponder to
+Verbs::English to Infinitiv	to sit  Wie heißt das Verb auf Deutsch?	sitzen  Beispiel: Wir sitzen draußen im Garten.  Gebrauch: —	sit to
+Verbs::English to Infinitiv	should; to be supposed to  Wie heißt das Verb auf Deutsch?	sollen  Beispiel: Du sollst mehr Wasser trinken.  Gebrauch: Modalverb	be should; supposed to
+Verbs::English to Infinitiv	to split  Wie heißt das Verb auf Deutsch?	spalten  Beispiel: Er spaltet das Holz mit einer Axt.  Gebrauch: Akk	split to
+Verbs::English to Infinitiv	to spit; vomit  Wie heißt das Verb auf Deutsch?	speien  Beispiel: Der Vulkan speit Asche in die Luft.  Gebrauch: —	spit; to vomit
+Verbs::English to Infinitiv	to spin  Wie heißt das Verb auf Deutsch?	spinnen  Beispiel: Die Spinne spinnt ein Netz.  Gebrauch: Akk	spin to
+Verbs::English to Infinitiv	to speak  Wie heißt das Verb auf Deutsch?	sprechen  Beispiel: Ich spreche jeden Tag Deutsch.  Gebrauch: Akk	speak to
+Verbs::English to Infinitiv	to sprout  Wie heißt das Verb auf Deutsch?	sprießen  Beispiel: Im Frühling sprießen neue Pflanzen.  Gebrauch: —	sprout to
+Verbs::English to Infinitiv	to jump  Wie heißt das Verb auf Deutsch?	springen  Beispiel: Das Kind springt ins Wasser.  Gebrauch: —	jump to
+Verbs::English to Infinitiv	to sting; stab  Wie heißt das Verb auf Deutsch?	stechen  Beispiel: Eine Biene sticht mich in den Arm.  Gebrauch: —	stab sting; to
+Verbs::English to Infinitiv	to stand  Wie heißt das Verb auf Deutsch?	stehen  Beispiel: Das Auto steht vor dem Haus.  Gebrauch: (Akk)	stand to
+Verbs::English to Infinitiv	to steal  Wie heißt das Verb auf Deutsch?	stehlen  Beispiel: Jemand stiehlt ihm sein Fahrrad.  Gebrauch: (Dat) + Akk	steal to
+Verbs::English to Infinitiv	to climb; rise  Wie heißt das Verb auf Deutsch?	steigen  Beispiel: Die Preise steigen jedes Jahr.  Gebrauch: —	climb; rise to
+Verbs::English to Infinitiv	to die  Wie heißt das Verb auf Deutsch?	sterben  Beispiel: Viele Pflanzen sterben ohne Wasser.  Gebrauch: —	die to
+Verbs::English to Infinitiv	to scatter; fly apart  Wie heißt das Verb auf Deutsch?	stieben  Beispiel: Die Funken stieben in alle Richtungen.  Gebrauch: —	apart fly scatter; to
+Verbs::English to Infinitiv	to stink  Wie heißt das Verb auf Deutsch?	stinken  Beispiel: Der Müll stinkt.  Gebrauch: —	stink to
+Verbs::English to Infinitiv	to push; bump  Wie heißt das Verb auf Deutsch?	stoßen  Beispiel: Ich stoße die Tür auf.  Gebrauch: (Akk)	bump push; to
+Verbs::English to Infinitiv	to stroke; paint; cancel  Wie heißt das Verb auf Deutsch?	streichen  Beispiel: Wir streichen die Wand weiß.  Gebrauch: Akk	cancel paint; stroke; to
+Verbs::English to Infinitiv	to argue  Wie heißt das Verb auf Deutsch?	streiten  Beispiel: Die Kinder streiten um das Spielzeug.  Gebrauch: —	argue to
+Verbs::English to Infinitiv	to carry; wear  Wie heißt das Verb auf Deutsch?	tragen  Beispiel: Sie trägt eine schwere Tasche.  Gebrauch: (Dat) + Akk	carry; to wear
+Verbs::English to Infinitiv	to meet; hit  Wie heißt das Verb auf Deutsch?	treffen  Beispiel: Ich treffe meine Freunde nach der Arbeit.  Gebrauch: Akk	hit meet; to
+Verbs::English to Infinitiv	to drive; propel  Wie heißt das Verb auf Deutsch?	treiben  Beispiel: Der Wind treibt das Boot aufs Meer.  Gebrauch: —	drive; propel to
+Verbs::English to Infinitiv	to step; kick  Wie heißt das Verb auf Deutsch?	treten  Beispiel: Er tritt gegen den Ball.  Gebrauch: (Akk)	kick step; to
+Verbs::English to Infinitiv	to drink  Wie heißt das Verb auf Deutsch?	trinken  Beispiel: Ich trinke morgens Kaffee.  Gebrauch: Akk	drink to
+Verbs::English to Infinitiv	to do  Wie heißt das Verb auf Deutsch?	tun  Beispiel: Was kann ich für dich tun?  Gebrauch: Akk	do to
+Verbs::English to Infinitiv	to fade  Wie heißt das Verb auf Deutsch?	verbleichen  Beispiel: Die Farbe verbleicht in der Sonne.  Gebrauch: —	fade to
+Verbs::English to Infinitiv	to spoil; ruin  Wie heißt das Verb auf Deutsch?	verderben  Beispiel: Die Hitze verdirbt das Essen.  Gebrauch: (Akk)	ruin spoil; to
+Verbs::English to Infinitiv	to annoy; vex  Wie heißt das Verb auf Deutsch?	verdrießen  Beispiel: Seine ständigen Beschwerden verdrießen mich.  Gebrauch: —	annoy; to vex
+Verbs::English to Infinitiv	to forget  Wie heißt das Verb auf Deutsch?	vergessen  Beispiel: Ich vergesse oft meinen Regenschirm.  Gebrauch: Akk	forget to
+Verbs::English to Infinitiv	to lose  Wie heißt das Verb auf Deutsch?	verlieren  Beispiel: Ich verliere ständig meine Schlüssel.  Gebrauch: Akk	lose to
+Verbs::English to Infinitiv	to disappear  Wie heißt das Verb auf Deutsch?	verschwinden  Beispiel: Die Sonne verschwindet hinter den Wolken.  Gebrauch: —	disappear to
+Verbs::English to Infinitiv	to forgive  Wie heißt das Verb auf Deutsch?	verzeihen  Beispiel: Kannst du mir bitte verzeihen?  Gebrauch: Dat + Akk	forgive to
+Verbs::English to Infinitiv	to grow  Wie heißt das Verb auf Deutsch?	wachsen  Beispiel: Die Kinder wachsen sehr schnell.  Gebrauch: —	grow to
+Verbs::English to Infinitiv	to wash  Wie heißt das Verb auf Deutsch?	waschen  Beispiel: Ich wasche mir die Hände.  Gebrauch: (Dat) + Akk	to wash
+Verbs::English to Infinitiv	to yield; give way  Wie heißt das Verb auf Deutsch?	weichen  Beispiel: Der Nebel weicht langsam.  Gebrauch: —	give to way yield;
+Verbs::English to Infinitiv	to point; show  Wie heißt das Verb auf Deutsch?	weisen  Beispiel: Er weist mir den Weg.  Gebrauch: (Dat) + Akk	point; show to
+Verbs::English to Infinitiv	to turn  Wie heißt das Verb auf Deutsch?	wenden  Beispiel: Bitte wende das Fleisch.  Gebrauch: Akk	to turn
+Verbs::English to Infinitiv	to advertise; recruit  Wie heißt das Verb auf Deutsch?	werben  Beispiel: Die Firma wirbt für ein neues Produkt.  Gebrauch: (Akk)	advertise; recruit to
+Verbs::English to Infinitiv	to be (passive auxiliary)  Wie heißt das Verb auf Deutsch?	werden  Beispiel: Das Haus wird nächstes Jahr gebaut.  Gebrauch: PASSIV	(passive auxiliary) be to
+Verbs::English to Infinitiv	to become  Wie heißt das Verb auf Deutsch?	werden  Beispiel: Ich werde nächstes Jahr dreißig.  Gebrauch: (Nom)	become to
+Verbs::English to Infinitiv	to throw  Wie heißt das Verb auf Deutsch?	werfen  Beispiel: Wir werfen den Ball hin und her.  Gebrauch: Akk	throw to
+Verbs::English to Infinitiv	to weigh  Wie heißt das Verb auf Deutsch?	wiegen  Beispiel: Die Kiste wiegt zehn Kilogramm.  Gebrauch: Akk	to weigh
+Verbs::English to Infinitiv	to wind; twist  Wie heißt das Verb auf Deutsch?	winden  Beispiel: Die Schlange windet sich um den Ast.  Gebrauch: Akk	to twist wind;
+Verbs::English to Infinitiv	to know (a fact)  Wie heißt das Verb auf Deutsch?	wissen  Beispiel: Ich weiß die Antwort nicht.  Gebrauch: (Akk)	(a fact) know to
+Verbs::English to Infinitiv	to want  Wie heißt das Verb auf Deutsch?	wollen  Beispiel: Ich will heute früher nach Hause gehen.  Gebrauch: Modalverb	to want
+Verbs::English to Infinitiv	to wring  Wie heißt das Verb auf Deutsch?	wringen  Beispiel: Sie wringt das nasse Handtuch aus.  Gebrauch: —	to wring
+Verbs::English to Infinitiv	to pull; move  Wie heißt das Verb auf Deutsch?	ziehen  Beispiel: Ich ziehe den Koffer hinter mir her.  Gebrauch: (Akk)	move pull; to
+Verbs::English to Infinitiv	to force  Wie heißt das Verb auf Deutsch?	zwingen  Beispiel: Niemand kann dich dazu zwingen.  Gebrauch: Akk + Inf.K.	force to
+Verbs::Infinitiv → Perfekt	backen	Perfekt: hat gebacken  English: to bake Gebrauch: Akk	backen
+Verbs::Infinitiv → Perfekt	befehlen	Perfekt: hat befohlen  English: to command; order Gebrauch: (Dat) + Inf.K.	befehlen
+Verbs::Infinitiv → Perfekt	beginnen	Perfekt: hat begonnen  English: to begin; start Gebrauch: Akk	beginnen
+Verbs::Infinitiv → Perfekt	beißen	Perfekt: hat gebissen  English: to bite Gebrauch: Akk	beißen
+Verbs::Infinitiv → Perfekt	bergen	Perfekt: hat geborgen  English: to recover; rescue; conceal Gebrauch: Akk	bergen
+Verbs::Infinitiv → Perfekt	bersten	Perfekt: ist geborsten  English: to burst; split Gebrauch: —	bersten
+Verbs::Infinitiv → Perfekt	betrügen	Perfekt: hat betrogen  English: to cheat; deceive Gebrauch: Akk	betrügen
+Verbs::Infinitiv → Perfekt	bewegen	Perfekt: hat bewogen  English: to move; induce Gebrauch: Akk + Inf.K.	bewegen
+Verbs::Infinitiv → Perfekt	biegen	Perfekt: hat gebogen  English: to bend; turn Gebrauch: Akk	biegen
+Verbs::Infinitiv → Perfekt	bieten	Perfekt: hat geboten  English: to offer Gebrauch: Dat + Akk	bieten
+Verbs::Infinitiv → Perfekt	binden	Perfekt: hat gebunden  English: to bind; tie Gebrauch: Akk	binden
+Verbs::Infinitiv → Perfekt	bitten	Perfekt: hat gebeten  English: to ask; request Gebrauch: Akk + Inf.K.	bitten
+Verbs::Infinitiv → Perfekt	blasen	Perfekt: hat geblasen  English: to blow Gebrauch: (Akk)	blasen
+Verbs::Infinitiv → Perfekt	bleiben	Perfekt: ist geblieben  English: to stay; remain Gebrauch: (Nom)	bleiben
+Verbs::Infinitiv → Perfekt	braten	Perfekt: hat gebraten  English: to fry; roast; grill Gebrauch: Akk	braten
+Verbs::Infinitiv → Perfekt	brechen	Perfekt: hat/ist gebrochen  English: to break Gebrauch: (Dat) + Akk	brechen
+Verbs::Infinitiv → Perfekt	brennen	Perfekt: hat gebrannt  English: to burn Gebrauch: —	brennen
+Verbs::Infinitiv → Perfekt	bringen	Perfekt: hat gebracht  English: to bring Gebrauch: Dat + Akk	bringen
+Verbs::Infinitiv → Perfekt	denken	Perfekt: hat gedacht  English: to think Gebrauch: (Dat)	denken
+Verbs::Infinitiv → Perfekt	dingen	Perfekt: hat gedungen  English: to hire; engage Gebrauch: Akk	dingen
+Verbs::Infinitiv → Perfekt	dreschen	Perfekt: hat gedroschen  English: to thresh Gebrauch: Akk	dreschen
+Verbs::Infinitiv → Perfekt	dringen	Perfekt: hat gedrungen  English: to penetrate; press Gebrauch: —	dringen
+Verbs::Infinitiv → Perfekt	dürfen	Perfekt: hat dürfen / gedurft  English: may; to be allowed to Gebrauch: Modalverb	dürfen
+Verbs::Infinitiv → Perfekt	empfehlen	Perfekt: hat empfohlen  English: to recommend Gebrauch: (Dat) + Inf.K.	empfehlen
+Verbs::Infinitiv → Perfekt	erlöschen	Perfekt: ist erloschen  English: to go out; expire Gebrauch: —	erlöschen
+Verbs::Infinitiv → Perfekt	erschrecken	Perfekt: ist erschrocken  English: to be startled; get frightened Gebrauch: —	erschrecken
+Verbs::Infinitiv → Perfekt	erwägen	Perfekt: hat erwogen  English: to consider Gebrauch: Akk	erwägen
+Verbs::Infinitiv → Perfekt	essen	Perfekt: hat gegessen  English: to eat Gebrauch: Akk	Essen
+Verbs::Infinitiv → Perfekt	fahren	Perfekt: hat/ist gefahren  English: to drive; travel Gebrauch: (Akk)	fahren
+Verbs::Infinitiv → Perfekt	fallen	Perfekt: ist gefallen  English: to fall Gebrauch: —	fallen
+Verbs::Infinitiv → Perfekt	fangen	Perfekt: hat gefangen  English: to catch Gebrauch: Akk	fangen
+Verbs::Infinitiv → Perfekt	fechten	Perfekt: hat gefochten  English: to fence; fight Gebrauch: —	fechten
+Verbs::Infinitiv → Perfekt	finden	Perfekt: hat gefunden  English: to find Gebrauch: Akk	finden
+Verbs::Infinitiv → Perfekt	flechten	Perfekt: hat geflochten  English: to braid; weave Gebrauch: Akk	flechten
+Verbs::Infinitiv → Perfekt	fliegen	Perfekt: hat/ist geflogen  English: to fly Gebrauch: (Akk)	fliegen
+Verbs::Infinitiv → Perfekt	fliehen	Perfekt: ist geflohen  English: to flee Gebrauch: —	fliehen
+Verbs::Infinitiv → Perfekt	fließen	Perfekt: ist geflossen  English: to flow Gebrauch: —	fließen
+Verbs::Infinitiv → Perfekt	fressen	Perfekt: hat gefressen  English: to eat (animals) Gebrauch: Akk	fressen
+Verbs::Infinitiv → Perfekt	frieren	Perfekt: hat gefroren  English: to freeze; be cold Gebrauch: —	frieren
+Verbs::Infinitiv → Perfekt	gären	Perfekt: ist gegoren  English: to ferment Gebrauch: —	gären
+Verbs::Infinitiv → Perfekt	gebären	Perfekt: hat/ist geboren  English: to give birth Gebrauch: (Akk)	gebären
+Verbs::Infinitiv → Perfekt	geben	Perfekt: hat gegeben  English: to give Gebrauch: Dat + Akk	geben
+Verbs::Infinitiv → Perfekt	gedeihen	Perfekt: ist gediehen  English: to thrive Gebrauch: —	gedeihen
+Verbs::Infinitiv → Perfekt	gehen	Perfekt: ist gegangen  English: to go; walk Gebrauch: —	gehen
+Verbs::Infinitiv → Perfekt	gelingen	Perfekt: ist gelungen  English: to succeed Gebrauch: (Dat) + Inf.K.	gelingen
+Verbs::Infinitiv → Perfekt	gelten	Perfekt: hat gegolten  English: to apply; be valid; count Gebrauch: —	gelten
+Verbs::Infinitiv → Perfekt	genesen	Perfekt: ist genesen  English: to recover; convalesce Gebrauch: —	genesen
+Verbs::Infinitiv → Perfekt	genießen	Perfekt: hat genossen  English: to enjoy Gebrauch: Akk	genießen
+Verbs::Infinitiv → Perfekt	geschehen	Perfekt: ist geschehen  English: to happen Gebrauch: (Dat)	geschehen
+Verbs::Infinitiv → Perfekt	gewinnen	Perfekt: hat gewonnen  English: to win; gain Gebrauch: Akk	gewinnen
+Verbs::Infinitiv → Perfekt	gießen	Perfekt: hat gegossen  English: to pour; water Gebrauch: Akk	gießen
+Verbs::Infinitiv → Perfekt	gleichen	Perfekt: hat geglichen  English: to resemble; equal Gebrauch: Dat	gleichen
+Verbs::Infinitiv → Perfekt	gleiten	Perfekt: ist geglitten  English: to glide; slide Gebrauch: —	gleiten
+Verbs::Infinitiv → Perfekt	glimmen	Perfekt: hat geglommen  English: to glow; smolder Gebrauch: —	glimmen
+Verbs::Infinitiv → Perfekt	graben	Perfekt: hat gegraben  English: to dig Gebrauch: (Dat) + Akk	graben
+Verbs::Infinitiv → Perfekt	greifen	Perfekt: hat gegriffen  English: to grab; reach Gebrauch: —	greifen
+Verbs::Infinitiv → Perfekt	haben	Perfekt: hat gehabt  English: to have Gebrauch: Akk	haben
+Verbs::Infinitiv → Perfekt	halten	Perfekt: hat gehalten  English: to hold; stop Gebrauch: —	halten
+Verbs::Infinitiv → Perfekt	hängen	Perfekt: hat (gehängt)/gehangen  English: to hang Gebrauch: (Akk)	hängen
+Verbs::Infinitiv → Perfekt	hauen	Perfekt: hat gehauen  English: to hit; chop Gebrauch: —	hauen
+Verbs::Infinitiv → Perfekt	heben	Perfekt: hat gehoben  English: to lift; raise Gebrauch: Akk	heben
+Verbs::Infinitiv → Perfekt	heißen	Perfekt: hat geheißen  English: to be called; mean Gebrauch: —	heißen
+Verbs::Infinitiv → Perfekt	helfen	Perfekt: hat geholfen  English: to help Gebrauch: Dat	helfen
+Verbs::Infinitiv → Perfekt	kennen	Perfekt: hat gekannt  English: to know; be familiar with Gebrauch: Akk	kennen
+Verbs::Infinitiv → Perfekt	klimmen	Perfekt: ist geklommen  English: to climb Gebrauch: —	klimmen
+Verbs::Infinitiv → Perfekt	klingen	Perfekt: hat geklungen  English: to sound Gebrauch: —	klingen
+Verbs::Infinitiv → Perfekt	kneifen	Perfekt: hat gekniffen  English: to pinch Gebrauch: Akk	kneifen
+Verbs::Infinitiv → Perfekt	kommen	Perfekt: ist gekommen  English: to come Gebrauch: —	kommen
+Verbs::Infinitiv → Perfekt	können	Perfekt: hat können / gekonnt  English: can; to be able to Gebrauch: Modalverb	können
+Verbs::Infinitiv → Perfekt	kriechen	Perfekt: ist gekrochen  English: to crawl Gebrauch: —	kriechen
+Verbs::Infinitiv → Perfekt	laden	Perfekt: hat geladen  English: to load; invite Gebrauch: Akk	laden
+Verbs::Infinitiv → Perfekt	lassen	Perfekt: hat lassen / gelassen  English: to let; leave Gebrauch: (Dat) + Akk	lassen
+Verbs::Infinitiv → Perfekt	laufen	Perfekt: hat/ist gelaufen  English: to run; walk Gebrauch: (Akk)	laufen
+Verbs::Infinitiv → Perfekt	leiden	Perfekt: hat gelitten  English: to suffer Gebrauch: —	leiden
+Verbs::Infinitiv → Perfekt	leihen	Perfekt: hat geliehen  English: to lend; borrow Gebrauch: Dat + Akk	leihen
+Verbs::Infinitiv → Perfekt	lesen	Perfekt: hat gelesen  English: to read Gebrauch: Akk	lesen
+Verbs::Infinitiv → Perfekt	liegen	Perfekt: hat gelegen  English: to lie; be located Gebrauch: —	liegen
+Verbs::Infinitiv → Perfekt	lügen	Perfekt: hat gelogen  English: to lie (tell an untruth) Gebrauch: —	lügen
+Verbs::Infinitiv → Perfekt	mahlen	Perfekt: hat gemahlen  English: to grind Gebrauch: Akk	mahlen
+Verbs::Infinitiv → Perfekt	meiden	Perfekt: hat gemieden  English: to avoid Gebrauch: Akk	meiden
+Verbs::Infinitiv → Perfekt	melken	Perfekt: hat gemelkt/gemolken  English: to milk Gebrauch: Akk	melken
+Verbs::Infinitiv → Perfekt	messen	Perfekt: hat gemessen  English: to measure Gebrauch: Akk	messen
+Verbs::Infinitiv → Perfekt	mögen	Perfekt: hat gemocht  English: to like Gebrauch: Akk	mögen
+Verbs::Infinitiv → Perfekt	mögen	Perfekt: hat wollen / gewollt  English: would like Gebrauch: Modalverb	mögen
+Verbs::Infinitiv → Perfekt	müssen	Perfekt: hat müssen / gemusst  English: must; to have to Gebrauch: Modalverb	müssen
+Verbs::Infinitiv → Perfekt	nehmen	Perfekt: hat genommen  English: to take Gebrauch: Akk	nehmen
+Verbs::Infinitiv → Perfekt	nennen	Perfekt: hat genannt  English: to name; call Gebrauch: Akk + Akk	nennen
+Verbs::Infinitiv → Perfekt	pfeifen	Perfekt: hat gepfiffen  English: to whistle Gebrauch: Akk	pfeifen
+Verbs::Infinitiv → Perfekt	preisen	Perfekt: hat gepriesen  English: to praise Gebrauch: Akk	preisen
+Verbs::Infinitiv → Perfekt	quellen	Perfekt: ist gequollen  English: to swell; well up Gebrauch: —	quellen
+Verbs::Infinitiv → Perfekt	raten	Perfekt: hat geraten  English: to advise; guess Gebrauch: (Dat) + Inf.K.	raten
+Verbs::Infinitiv → Perfekt	reiben	Perfekt: hat gerieben  English: to rub Gebrauch: Akk	reiben
+Verbs::Infinitiv → Perfekt	reißen	Perfekt: ist gerissen  English: to tear; rip Gebrauch: —	reißen
+Verbs::Infinitiv → Perfekt	reiten	Perfekt: hat/ist geritten  English: to ride (a horse) Gebrauch: (Akk)	reiten
+Verbs::Infinitiv → Perfekt	rennen	Perfekt: ist gerannt  English: to run; race Gebrauch: —	rennen
+Verbs::Infinitiv → Perfekt	riechen	Perfekt: hat gerochen  English: to smell Gebrauch: Akk	riechen
+Verbs::Infinitiv → Perfekt	ringen	Perfekt: hat gerungen  English: to wrestle; struggle Gebrauch: —	ringen
+Verbs::Infinitiv → Perfekt	rinnen	Perfekt: ist geronnen  English: to trickle; flow Gebrauch: —	rinnen
+Verbs::Infinitiv → Perfekt	rufen	Perfekt: hat gerufen  English: to call; shout Gebrauch: Akk	rufen
+Verbs::Infinitiv → Perfekt	salzen	Perfekt: hat gesalzen  English: to salt Gebrauch: Akk	salzen
+Verbs::Infinitiv → Perfekt	saufen	Perfekt: hat gesoffen  English: to drink (animals/colloquial) Gebrauch: Akk	saufen
+Verbs::Infinitiv → Perfekt	saugen	Perfekt: hat gesogen  English: to suck Gebrauch: Akk	saugen
+Verbs::Infinitiv → Perfekt	schaffen	Perfekt: hat geschaffen  English: to create Gebrauch: Akk	schaffen
+Verbs::Infinitiv → Perfekt	scheiden	Perfekt: hat/ist geschieden  English: to separate; divorce Gebrauch: (Akk)	scheiden
+Verbs::Infinitiv → Perfekt	scheinen	Perfekt: hat geschienen  English: to shine; seem Gebrauch: —	scheinen
+Verbs::Infinitiv → Perfekt	scheißen	Perfekt: hat geschissen  English: to defecate (vulgar) Gebrauch: —	scheißen
+Verbs::Infinitiv → Perfekt	schelten	Perfekt: hat gescholten  English: to scold Gebrauch: Akk	schelten
+Verbs::Infinitiv → Perfekt	scheren	Perfekt: hat geschoren  English: to shear Gebrauch: Akk	scheren
+Verbs::Infinitiv → Perfekt	schieben	Perfekt: hat geschoben  English: to push Gebrauch: Akk	schieben
+Verbs::Infinitiv → Perfekt	schießen	Perfekt: hat geschossen  English: to shoot Gebrauch: (Akk)	schießen
+Verbs::Infinitiv → Perfekt	schlafen	Perfekt: hat geschlafen  English: to sleep Gebrauch: —	schlafen
+Verbs::Infinitiv → Perfekt	schlagen	Perfekt: hat geschlagen  English: to hit; beat Gebrauch: Akk	schlagen
+Verbs::Infinitiv → Perfekt	schleichen	Perfekt: ist geschlichen  English: to sneak; creep Gebrauch: —	schleichen
+Verbs::Infinitiv → Perfekt	schleifen	Perfekt: hat geschliffen  English: to grind; sharpen Gebrauch: Akk	schleifen
+Verbs::Infinitiv → Perfekt	schließen	Perfekt: hat geschlossen  English: to close; lock Gebrauch: Akk	schließen
+Verbs::Infinitiv → Perfekt	schlingen	Perfekt: hat geschlungen  English: to gulp; wind Gebrauch: —	schlingen
+Verbs::Infinitiv → Perfekt	schmeißen	Perfekt: hat geschmissen  English: to throw Gebrauch: —	schmeißen
+Verbs::Infinitiv → Perfekt	schmelzen	Perfekt: hat/ist geschmolzen  English: to melt Gebrauch: (Akk)	schmelzen
+Verbs::Infinitiv → Perfekt	schneiden	Perfekt: hat geschnitten  English: to cut Gebrauch: Akk	schneiden
+Verbs::Infinitiv → Perfekt	schreiben	Perfekt: hat geschrieben  English: to write Gebrauch: (Dat) + Akk	schreiben
+Verbs::Infinitiv → Perfekt	schreien	Perfekt: hat geschrien  English: to scream; shout Gebrauch: —	schreien
+Verbs::Infinitiv → Perfekt	schreiten	Perfekt: ist geschritten  English: to stride Gebrauch: —	schreiten
+Verbs::Infinitiv → Perfekt	schweigen	Perfekt: hat geschwiegen  English: to be silent Gebrauch: —	schweigen
+Verbs::Infinitiv → Perfekt	schwellen	Perfekt: ist geschwollen  English: to swell Gebrauch: —	schwellen
+Verbs::Infinitiv → Perfekt	schwimmen	Perfekt: hat/ist geschwommen  English: to swim Gebrauch: (Akk)	schwimmen
+Verbs::Infinitiv → Perfekt	schwingen	Perfekt: hat geschwungen  English: to swing Gebrauch: —	schwingen
+Verbs::Infinitiv → Perfekt	schwören	Perfekt: hat geschworen  English: to swear Gebrauch: (Dat) + Akk	schwören
+Verbs::Infinitiv → Perfekt	sehen	Perfekt: hat gesehen  English: to see Gebrauch: Akk	sehen
+Verbs::Infinitiv → Perfekt	sein	Perfekt: ist gewesen  English: to be Gebrauch: (Nom)	sein
+Verbs::Infinitiv → Perfekt	senden	Perfekt: hat gesandt/gesendet  English: to send Gebrauch: Akk	senden
+Verbs::Infinitiv → Perfekt	singen	Perfekt: hat gesungen  English: to sing Gebrauch: Akk	singen
+Verbs::Infinitiv → Perfekt	sinken	Perfekt: ist gesunken  English: to sink Gebrauch: —	sinken
+Verbs::Infinitiv → Perfekt	sinnen	Perfekt: hat gesonnen  English: to ponder Gebrauch: —	sinnen
+Verbs::Infinitiv → Perfekt	sitzen	Perfekt: hat gesessen  English: to sit Gebrauch: —	sitzen
+Verbs::Infinitiv → Perfekt	sollen	Perfekt: hat sollen / gesollt  English: should; to be supposed to Gebrauch: Modalverb	sollen
+Verbs::Infinitiv → Perfekt	spalten	Perfekt: hat gespalten  English: to split Gebrauch: Akk	spalten
+Verbs::Infinitiv → Perfekt	speien	Perfekt: hat gespien  English: to spit; vomit Gebrauch: —	speien
+Verbs::Infinitiv → Perfekt	spinnen	Perfekt: hat gesponnen  English: to spin Gebrauch: Akk	spinnen
+Verbs::Infinitiv → Perfekt	sprechen	Perfekt: hat gesprochen  English: to speak Gebrauch: Akk	sprechen
+Verbs::Infinitiv → Perfekt	sprießen	Perfekt: ist gesprossen  English: to sprout Gebrauch: —	sprießen
+Verbs::Infinitiv → Perfekt	springen	Perfekt: ist gesprungen  English: to jump Gebrauch: —	springen
+Verbs::Infinitiv → Perfekt	stechen	Perfekt: hat gestochen  English: to sting; stab Gebrauch: —	stechen
+Verbs::Infinitiv → Perfekt	stehen	Perfekt: hat gestanden  English: to stand Gebrauch: (Akk)	stehen
+Verbs::Infinitiv → Perfekt	stehlen	Perfekt: hat gestohlen  English: to steal Gebrauch: (Dat) + Akk	stehlen
+Verbs::Infinitiv → Perfekt	steigen	Perfekt: ist gestiegen  English: to climb; rise Gebrauch: —	steigen
+Verbs::Infinitiv → Perfekt	sterben	Perfekt: ist gestorben  English: to die Gebrauch: —	sterben
+Verbs::Infinitiv → Perfekt	stieben	Perfekt: ist gestoben  English: to scatter; fly apart Gebrauch: —	stieben
+Verbs::Infinitiv → Perfekt	stinken	Perfekt: hat gestunken  English: to stink Gebrauch: —	stinken
+Verbs::Infinitiv → Perfekt	stoßen	Perfekt: hat/ist gestoßen  English: to push; bump Gebrauch: (Akk)	stoßen
+Verbs::Infinitiv → Perfekt	streichen	Perfekt: hat gestrichen  English: to stroke; paint; cancel Gebrauch: Akk	streichen
+Verbs::Infinitiv → Perfekt	streiten	Perfekt: hat gestritten  English: to argue Gebrauch: —	streiten
+Verbs::Infinitiv → Perfekt	tragen	Perfekt: hat getragen  English: to carry; wear Gebrauch: (Dat) + Akk	tragen
+Verbs::Infinitiv → Perfekt	treffen	Perfekt: hat getroffen  English: to meet; hit Gebrauch: Akk	treffen
+Verbs::Infinitiv → Perfekt	treiben	Perfekt: hat/ist getrieben  English: to drive; propel Gebrauch: —	treiben
+Verbs::Infinitiv → Perfekt	treten	Perfekt: hat/ist getreten  English: to step; kick Gebrauch: (Akk)	treten
+Verbs::Infinitiv → Perfekt	trinken	Perfekt: hat getrunken  English: to drink Gebrauch: Akk	Trinken
+Verbs::Infinitiv → Perfekt	tun	Perfekt: hat getan  English: to do Gebrauch: Akk	tun
+Verbs::Infinitiv → Perfekt	verbleichen	Perfekt: ist verblichen  English: to fade Gebrauch: —	verbleichen
+Verbs::Infinitiv → Perfekt	verderben	Perfekt: hat/ist verdorben  English: to spoil; ruin Gebrauch: (Akk)	verderben
+Verbs::Infinitiv → Perfekt	verdrießen	Perfekt: hat verdrossen  English: to annoy; vex Gebrauch: —	verdrießen
+Verbs::Infinitiv → Perfekt	vergessen	Perfekt: hat vergessen  English: to forget Gebrauch: Akk	vergessen
+Verbs::Infinitiv → Perfekt	verlieren	Perfekt: hat verloren  English: to lose Gebrauch: Akk	verlieren
+Verbs::Infinitiv → Perfekt	verschwinden	Perfekt: ist verschwunden  English: to disappear Gebrauch: —	verschwinden
+Verbs::Infinitiv → Perfekt	verzeihen	Perfekt: hat verziehen  English: to forgive Gebrauch: Dat + Akk	verzeihen
+Verbs::Infinitiv → Perfekt	wachsen	Perfekt: ist gewachsen  English: to grow Gebrauch: —	wachsen
+Verbs::Infinitiv → Perfekt	waschen	Perfekt: hat gewaschen  English: to wash Gebrauch: (Dat) + Akk	waschen
+Verbs::Infinitiv → Perfekt	weichen	Perfekt: ist gewichen  English: to yield; give way Gebrauch: —	weichen
+Verbs::Infinitiv → Perfekt	weisen	Perfekt: hat gewiesen  English: to point; show Gebrauch: (Dat) + Akk	weisen
+Verbs::Infinitiv → Perfekt	wenden	Perfekt: hat gewandt/gewendet  English: to turn Gebrauch: Akk	wenden
+Verbs::Infinitiv → Perfekt	werben	Perfekt: hat geworben  English: to advertise; recruit Gebrauch: (Akk)	werben
+Verbs::Infinitiv → Perfekt	werden	Perfekt: ist worden  English: to be (passive auxiliary) Gebrauch: PASSIV	werden
+Verbs::Infinitiv → Perfekt	werden	Perfekt: ist geworden  English: to become Gebrauch: (Nom)	werden
+Verbs::Infinitiv → Perfekt	werfen	Perfekt: hat geworfen  English: to throw Gebrauch: Akk	werfen
+Verbs::Infinitiv → Perfekt	wiegen	Perfekt: hat gewogen  English: to weigh Gebrauch: Akk	wiegen
+Verbs::Infinitiv → Perfekt	winden	Perfekt: hat gewunden  English: to wind; twist Gebrauch: Akk	winden
+Verbs::Infinitiv → Perfekt	wissen	Perfekt: hat gewusst  English: to know (a fact) Gebrauch: (Akk)	wissen
+Verbs::Infinitiv → Perfekt	wollen	Perfekt: hat wollen / gewollt  English: to want Gebrauch: Modalverb	wollen
+Verbs::Infinitiv → Perfekt	wringen	Perfekt: hat gewrungen  English: to wring Gebrauch: —	wringen
+Verbs::Infinitiv → Perfekt	ziehen	Perfekt: hat/ist gezogen  English: to pull; move Gebrauch: (Akk)	ziehen
+Verbs::Infinitiv → Perfekt	zwingen	Perfekt: hat gezwungen  English: to force Gebrauch: Akk + Inf.K.	zwingen
+Verbs::Infinitiv → Präteritum	backen	Präteritum: buk/backte  English: to bake Gebrauch: Akk	backen
+Verbs::Infinitiv → Präteritum	befehlen	Präteritum: befahl  English: to command; order Gebrauch: (Dat) + Inf.K.	befehlen
+Verbs::Infinitiv → Präteritum	beginnen	Präteritum: begann  English: to begin; start Gebrauch: Akk	beginnen
+Verbs::Infinitiv → Präteritum	beißen	Präteritum: biss  English: to bite Gebrauch: Akk	beißen
+Verbs::Infinitiv → Präteritum	bergen	Präteritum: barg  English: to recover; rescue; conceal Gebrauch: Akk	bergen
+Verbs::Infinitiv → Präteritum	bersten	Präteritum: barst  English: to burst; split Gebrauch: —	bersten
+Verbs::Infinitiv → Präteritum	betrügen	Präteritum: betrog  English: to cheat; deceive Gebrauch: Akk	betrügen
+Verbs::Infinitiv → Präteritum	bewegen	Präteritum: bewog  English: to move; induce Gebrauch: Akk + Inf.K.	bewegen
+Verbs::Infinitiv → Präteritum	biegen	Präteritum: bog  English: to bend; turn Gebrauch: Akk	biegen
+Verbs::Infinitiv → Präteritum	bieten	Präteritum: bot  English: to offer Gebrauch: Dat + Akk	bieten
+Verbs::Infinitiv → Präteritum	binden	Präteritum: band  English: to bind; tie Gebrauch: Akk	binden
+Verbs::Infinitiv → Präteritum	bitten	Präteritum: bat  English: to ask; request Gebrauch: Akk + Inf.K.	bitten
+Verbs::Infinitiv → Präteritum	blasen	Präteritum: blies  English: to blow Gebrauch: (Akk)	blasen
+Verbs::Infinitiv → Präteritum	bleiben	Präteritum: blieb  English: to stay; remain Gebrauch: (Nom)	bleiben
+Verbs::Infinitiv → Präteritum	braten	Präteritum: briet  English: to fry; roast; grill Gebrauch: Akk	braten
+Verbs::Infinitiv → Präteritum	brechen	Präteritum: brach  English: to break Gebrauch: (Dat) + Akk	brechen
+Verbs::Infinitiv → Präteritum	brennen	Präteritum: brannte  English: to burn Gebrauch: —	brennen
+Verbs::Infinitiv → Präteritum	bringen	Präteritum: brachte  English: to bring Gebrauch: Dat + Akk	bringen
+Verbs::Infinitiv → Präteritum	denken	Präteritum: dachte  English: to think Gebrauch: (Dat)	denken
+Verbs::Infinitiv → Präteritum	dingen	Präteritum: dang  English: to hire; engage Gebrauch: Akk	dingen
+Verbs::Infinitiv → Präteritum	dreschen	Präteritum: drosch  English: to thresh Gebrauch: Akk	dreschen
+Verbs::Infinitiv → Präteritum	dringen	Präteritum: drang  English: to penetrate; press Gebrauch: —	dringen
+Verbs::Infinitiv → Präteritum	dürfen	Präteritum: durfte (+ Inf.)  English: may; to be allowed to Gebrauch: Modalverb	dürfen
+Verbs::Infinitiv → Präteritum	empfehlen	Präteritum: empfahl  English: to recommend Gebrauch: (Dat) + Inf.K.	empfehlen
+Verbs::Infinitiv → Präteritum	erlöschen	Präteritum: erlosch  English: to go out; expire Gebrauch: —	erlöschen
+Verbs::Infinitiv → Präteritum	erschrecken	Präteritum: erschrak  English: to be startled; get frightened Gebrauch: —	erschrecken
+Verbs::Infinitiv → Präteritum	erwägen	Präteritum: erwog  English: to consider Gebrauch: Akk	erwägen
+Verbs::Infinitiv → Präteritum	essen	Präteritum: aß  English: to eat Gebrauch: Akk	Essen
+Verbs::Infinitiv → Präteritum	fahren	Präteritum: fuhr  English: to drive; travel Gebrauch: (Akk)	fahren
+Verbs::Infinitiv → Präteritum	fallen	Präteritum: fiel  English: to fall Gebrauch: —	fallen
+Verbs::Infinitiv → Präteritum	fangen	Präteritum: fing  English: to catch Gebrauch: Akk	fangen
+Verbs::Infinitiv → Präteritum	fechten	Präteritum: focht  English: to fence; fight Gebrauch: —	fechten
+Verbs::Infinitiv → Präteritum	finden	Präteritum: fand  English: to find Gebrauch: Akk	finden
+Verbs::Infinitiv → Präteritum	flechten	Präteritum: flocht  English: to braid; weave Gebrauch: Akk	flechten
+Verbs::Infinitiv → Präteritum	fliegen	Präteritum: flog  English: to fly Gebrauch: (Akk)	fliegen
+Verbs::Infinitiv → Präteritum	fliehen	Präteritum: floh  English: to flee Gebrauch: —	fliehen
+Verbs::Infinitiv → Präteritum	fließen	Präteritum: floss  English: to flow Gebrauch: —	fließen
+Verbs::Infinitiv → Präteritum	fressen	Präteritum: fraß  English: to eat (animals) Gebrauch: Akk	fressen
+Verbs::Infinitiv → Präteritum	frieren	Präteritum: fror  English: to freeze; be cold Gebrauch: —	frieren
+Verbs::Infinitiv → Präteritum	gären	Präteritum: gor  English: to ferment Gebrauch: —	gären
+Verbs::Infinitiv → Präteritum	gebären	Präteritum: gebar  English: to give birth Gebrauch: (Akk)	gebären
+Verbs::Infinitiv → Präteritum	geben	Präteritum: gab  English: to give Gebrauch: Dat + Akk	geben
+Verbs::Infinitiv → Präteritum	gedeihen	Präteritum: gedieh  English: to thrive Gebrauch: —	gedeihen
+Verbs::Infinitiv → Präteritum	gehen	Präteritum: ging  English: to go; walk Gebrauch: —	gehen
+Verbs::Infinitiv → Präteritum	gelingen	Präteritum: gelang  English: to succeed Gebrauch: (Dat) + Inf.K.	gelingen
+Verbs::Infinitiv → Präteritum	gelten	Präteritum: galt  English: to apply; be valid; count Gebrauch: —	gelten
+Verbs::Infinitiv → Präteritum	genesen	Präteritum: genas  English: to recover; convalesce Gebrauch: —	genesen
+Verbs::Infinitiv → Präteritum	genießen	Präteritum: genoss  English: to enjoy Gebrauch: Akk	genießen
+Verbs::Infinitiv → Präteritum	geschehen	Präteritum: geschah  English: to happen Gebrauch: (Dat)	geschehen
+Verbs::Infinitiv → Präteritum	gewinnen	Präteritum: gewann  English: to win; gain Gebrauch: Akk	gewinnen
+Verbs::Infinitiv → Präteritum	gießen	Präteritum: goss  English: to pour; water Gebrauch: Akk	gießen
+Verbs::Infinitiv → Präteritum	gleichen	Präteritum: glich  English: to resemble; equal Gebrauch: Dat	gleichen
+Verbs::Infinitiv → Präteritum	gleiten	Präteritum: glitt  English: to glide; slide Gebrauch: —	gleiten
+Verbs::Infinitiv → Präteritum	glimmen	Präteritum: glomm  English: to glow; smolder Gebrauch: —	glimmen
+Verbs::Infinitiv → Präteritum	graben	Präteritum: grub  English: to dig Gebrauch: (Dat) + Akk	graben
+Verbs::Infinitiv → Präteritum	greifen	Präteritum: griff  English: to grab; reach Gebrauch: —	greifen
+Verbs::Infinitiv → Präteritum	haben	Präteritum: hatte  English: to have Gebrauch: Akk	haben
+Verbs::Infinitiv → Präteritum	halten	Präteritum: hielt  English: to hold; stop Gebrauch: —	halten
+Verbs::Infinitiv → Präteritum	hängen	Präteritum: (hängte)/hing  English: to hang Gebrauch: (Akk)	hängen
+Verbs::Infinitiv → Präteritum	hauen	Präteritum: haute  English: to hit; chop Gebrauch: —	hauen
+Verbs::Infinitiv → Präteritum	heben	Präteritum: hob  English: to lift; raise Gebrauch: Akk	heben
+Verbs::Infinitiv → Präteritum	heißen	Präteritum: hieß  English: to be called; mean Gebrauch: —	heißen
+Verbs::Infinitiv → Präteritum	helfen	Präteritum: half  English: to help Gebrauch: Dat	helfen
+Verbs::Infinitiv → Präteritum	kennen	Präteritum: kannte  English: to know; be familiar with Gebrauch: Akk	kennen
+Verbs::Infinitiv → Präteritum	klimmen	Präteritum: klomm  English: to climb Gebrauch: —	klimmen
+Verbs::Infinitiv → Präteritum	klingen	Präteritum: klang  English: to sound Gebrauch: —	klingen
+Verbs::Infinitiv → Präteritum	kneifen	Präteritum: kniff  English: to pinch Gebrauch: Akk	kneifen
+Verbs::Infinitiv → Präteritum	kommen	Präteritum: kam  English: to come Gebrauch: —	kommen
+Verbs::Infinitiv → Präteritum	können	Präteritum: konnte (+ Inf.)  English: can; to be able to Gebrauch: Modalverb	können
+Verbs::Infinitiv → Präteritum	kriechen	Präteritum: kroch  English: to crawl Gebrauch: —	kriechen
+Verbs::Infinitiv → Präteritum	laden	Präteritum: lud  English: to load; invite Gebrauch: Akk	laden
+Verbs::Infinitiv → Präteritum	lassen	Präteritum: ließ (+ Inf.)  English: to let; leave Gebrauch: (Dat) + Akk	lassen
+Verbs::Infinitiv → Präteritum	laufen	Präteritum: lief  English: to run; walk Gebrauch: (Akk)	laufen
+Verbs::Infinitiv → Präteritum	leiden	Präteritum: litt  English: to suffer Gebrauch: —	leiden
+Verbs::Infinitiv → Präteritum	leihen	Präteritum: lieh  English: to lend; borrow Gebrauch: Dat + Akk	leihen
+Verbs::Infinitiv → Präteritum	lesen	Präteritum: las  English: to read Gebrauch: Akk	lesen
+Verbs::Infinitiv → Präteritum	liegen	Präteritum: lag  English: to lie; be located Gebrauch: —	liegen
+Verbs::Infinitiv → Präteritum	lügen	Präteritum: log  English: to lie (tell an untruth) Gebrauch: —	lügen
+Verbs::Infinitiv → Präteritum	mahlen	Präteritum: mahlte  English: to grind Gebrauch: Akk	mahlen
+Verbs::Infinitiv → Präteritum	meiden	Präteritum: mied  English: to avoid Gebrauch: Akk	meiden
+Verbs::Infinitiv → Präteritum	melken	Präteritum: melkte  English: to milk Gebrauch: Akk	melken
+Verbs::Infinitiv → Präteritum	messen	Präteritum: maß  English: to measure Gebrauch: Akk	messen
+Verbs::Infinitiv → Präteritum	mögen	Präteritum: mochte  English: to like Gebrauch: Akk	mögen
+Verbs::Infinitiv → Präteritum	mögen	Präteritum: wollte (+ Inf.)  English: would like Gebrauch: Modalverb	mögen
+Verbs::Infinitiv → Präteritum	müssen	Präteritum: musste (+ Inf.)  English: must; to have to Gebrauch: Modalverb	müssen
+Verbs::Infinitiv → Präteritum	nehmen	Präteritum: nahm  English: to take Gebrauch: Akk	nehmen
+Verbs::Infinitiv → Präteritum	nennen	Präteritum: nannte  English: to name; call Gebrauch: Akk + Akk	nennen
+Verbs::Infinitiv → Präteritum	pfeifen	Präteritum: pfiff  English: to whistle Gebrauch: Akk	pfeifen
+Verbs::Infinitiv → Präteritum	preisen	Präteritum: pries  English: to praise Gebrauch: Akk	preisen
+Verbs::Infinitiv → Präteritum	quellen	Präteritum: quoll  English: to swell; well up Gebrauch: —	quellen
+Verbs::Infinitiv → Präteritum	raten	Präteritum: riet  English: to advise; guess Gebrauch: (Dat) + Inf.K.	raten
+Verbs::Infinitiv → Präteritum	reiben	Präteritum: rieb  English: to rub Gebrauch: Akk	reiben
+Verbs::Infinitiv → Präteritum	reißen	Präteritum: riss  English: to tear; rip Gebrauch: —	reißen
+Verbs::Infinitiv → Präteritum	reiten	Präteritum: ritt  English: to ride (a horse) Gebrauch: (Akk)	reiten
+Verbs::Infinitiv → Präteritum	rennen	Präteritum: rannte  English: to run; race Gebrauch: —	rennen
+Verbs::Infinitiv → Präteritum	riechen	Präteritum: roch  English: to smell Gebrauch: Akk	riechen
+Verbs::Infinitiv → Präteritum	ringen	Präteritum: rang  English: to wrestle; struggle Gebrauch: —	ringen
+Verbs::Infinitiv → Präteritum	rinnen	Präteritum: rann  English: to trickle; flow Gebrauch: —	rinnen
+Verbs::Infinitiv → Präteritum	rufen	Präteritum: rief  English: to call; shout Gebrauch: Akk	rufen
+Verbs::Infinitiv → Präteritum	salzen	Präteritum: salzte  English: to salt Gebrauch: Akk	salzen
+Verbs::Infinitiv → Präteritum	saufen	Präteritum: soff  English: to drink (animals/colloquial) Gebrauch: Akk	saufen
+Verbs::Infinitiv → Präteritum	saugen	Präteritum: sog  English: to suck Gebrauch: Akk	saugen
+Verbs::Infinitiv → Präteritum	schaffen	Präteritum: schuf  English: to create Gebrauch: Akk	schaffen
+Verbs::Infinitiv → Präteritum	scheiden	Präteritum: schied  English: to separate; divorce Gebrauch: (Akk)	scheiden
+Verbs::Infinitiv → Präteritum	scheinen	Präteritum: schien  English: to shine; seem Gebrauch: —	scheinen
+Verbs::Infinitiv → Präteritum	scheißen	Präteritum: schiss  English: to defecate (vulgar) Gebrauch: —	scheißen
+Verbs::Infinitiv → Präteritum	schelten	Präteritum: schalt  English: to scold Gebrauch: Akk	schelten
+Verbs::Infinitiv → Präteritum	scheren	Präteritum: schor  English: to shear Gebrauch: Akk	scheren
+Verbs::Infinitiv → Präteritum	schieben	Präteritum: schob  English: to push Gebrauch: Akk	schieben
+Verbs::Infinitiv → Präteritum	schießen	Präteritum: schoss  English: to shoot Gebrauch: (Akk)	schießen
+Verbs::Infinitiv → Präteritum	schlafen	Präteritum: schlief  English: to sleep Gebrauch: —	schlafen
+Verbs::Infinitiv → Präteritum	schlagen	Präteritum: schlug  English: to hit; beat Gebrauch: Akk	schlagen
+Verbs::Infinitiv → Präteritum	schleichen	Präteritum: schlich  English: to sneak; creep Gebrauch: —	schleichen
+Verbs::Infinitiv → Präteritum	schleifen	Präteritum: schliff  English: to grind; sharpen Gebrauch: Akk	schleifen
+Verbs::Infinitiv → Präteritum	schließen	Präteritum: schloss  English: to close; lock Gebrauch: Akk	schließen
+Verbs::Infinitiv → Präteritum	schlingen	Präteritum: schlang  English: to gulp; wind Gebrauch: —	schlingen
+Verbs::Infinitiv → Präteritum	schmeißen	Präteritum: schmiss  English: to throw Gebrauch: —	schmeißen
+Verbs::Infinitiv → Präteritum	schmelzen	Präteritum: schmolz  English: to melt Gebrauch: (Akk)	schmelzen
+Verbs::Infinitiv → Präteritum	schneiden	Präteritum: schnitt  English: to cut Gebrauch: Akk	schneiden
+Verbs::Infinitiv → Präteritum	schreiben	Präteritum: schrieb  English: to write Gebrauch: (Dat) + Akk	schreiben
+Verbs::Infinitiv → Präteritum	schreien	Präteritum: schrie  English: to scream; shout Gebrauch: —	schreien
+Verbs::Infinitiv → Präteritum	schreiten	Präteritum: schritt  English: to stride Gebrauch: —	schreiten
+Verbs::Infinitiv → Präteritum	schweigen	Präteritum: schwieg  English: to be silent Gebrauch: —	schweigen
+Verbs::Infinitiv → Präteritum	schwellen	Präteritum: schwoll  English: to swell Gebrauch: —	schwellen
+Verbs::Infinitiv → Präteritum	schwimmen	Präteritum: schwamm  English: to swim Gebrauch: (Akk)	schwimmen
+Verbs::Infinitiv → Präteritum	schwingen	Präteritum: schwang  English: to swing Gebrauch: —	schwingen
+Verbs::Infinitiv → Präteritum	schwören	Präteritum: schwor  English: to swear Gebrauch: (Dat) + Akk	schwören
+Verbs::Infinitiv → Präteritum	sehen	Präteritum: sah  English: to see Gebrauch: Akk	sehen
+Verbs::Infinitiv → Präteritum	sein	Präteritum: war  English: to be Gebrauch: (Nom)	sein
+Verbs::Infinitiv → Präteritum	senden	Präteritum: sandte/sendete  English: to send Gebrauch: Akk	senden
+Verbs::Infinitiv → Präteritum	singen	Präteritum: sang  English: to sing Gebrauch: Akk	singen
+Verbs::Infinitiv → Präteritum	sinken	Präteritum: sank  English: to sink Gebrauch: —	sinken
+Verbs::Infinitiv → Präteritum	sinnen	Präteritum: sann  English: to ponder Gebrauch: —	sinnen
+Verbs::Infinitiv → Präteritum	sitzen	Präteritum: saß  English: to sit Gebrauch: —	sitzen
+Verbs::Infinitiv → Präteritum	sollen	Präteritum: sollte (+ Inf.)  English: should; to be supposed to Gebrauch: Modalverb	sollen
+Verbs::Infinitiv → Präteritum	spalten	Präteritum: spaltete  English: to split Gebrauch: Akk	spalten
+Verbs::Infinitiv → Präteritum	speien	Präteritum: spie  English: to spit; vomit Gebrauch: —	speien
+Verbs::Infinitiv → Präteritum	spinnen	Präteritum: spann  English: to spin Gebrauch: Akk	spinnen
+Verbs::Infinitiv → Präteritum	sprechen	Präteritum: sprach  English: to speak Gebrauch: Akk	sprechen
+Verbs::Infinitiv → Präteritum	sprießen	Präteritum: spross  English: to sprout Gebrauch: —	sprießen
+Verbs::Infinitiv → Präteritum	springen	Präteritum: sprang  English: to jump Gebrauch: —	springen
+Verbs::Infinitiv → Präteritum	stechen	Präteritum: stach  English: to sting; stab Gebrauch: —	stechen
+Verbs::Infinitiv → Präteritum	stehen	Präteritum: stand  English: to stand Gebrauch: (Akk)	stehen
+Verbs::Infinitiv → Präteritum	stehlen	Präteritum: stahl  English: to steal Gebrauch: (Dat) + Akk	stehlen
+Verbs::Infinitiv → Präteritum	steigen	Präteritum: stieg  English: to climb; rise Gebrauch: —	steigen
+Verbs::Infinitiv → Präteritum	sterben	Präteritum: starb  English: to die Gebrauch: —	sterben
+Verbs::Infinitiv → Präteritum	stieben	Präteritum: stob  English: to scatter; fly apart Gebrauch: —	stieben
+Verbs::Infinitiv → Präteritum	stinken	Präteritum: stank  English: to stink Gebrauch: —	stinken
+Verbs::Infinitiv → Präteritum	stoßen	Präteritum: stieß  English: to push; bump Gebrauch: (Akk)	stoßen
+Verbs::Infinitiv → Präteritum	streichen	Präteritum: strich  English: to stroke; paint; cancel Gebrauch: Akk	streichen
+Verbs::Infinitiv → Präteritum	streiten	Präteritum: stritt  English: to argue Gebrauch: —	streiten
+Verbs::Infinitiv → Präteritum	tragen	Präteritum: trug  English: to carry; wear Gebrauch: (Dat) + Akk	tragen
+Verbs::Infinitiv → Präteritum	treffen	Präteritum: traf  English: to meet; hit Gebrauch: Akk	treffen
+Verbs::Infinitiv → Präteritum	treiben	Präteritum: trieb  English: to drive; propel Gebrauch: —	treiben
+Verbs::Infinitiv → Präteritum	treten	Präteritum: trat  English: to step; kick Gebrauch: (Akk)	treten
+Verbs::Infinitiv → Präteritum	trinken	Präteritum: trank  English: to drink Gebrauch: Akk	Trinken
+Verbs::Infinitiv → Präteritum	tun	Präteritum: tat  English: to do Gebrauch: Akk	tun
+Verbs::Infinitiv → Präteritum	verbleichen	Präteritum: verblich  English: to fade Gebrauch: —	verbleichen
+Verbs::Infinitiv → Präteritum	verderben	Präteritum: verdarb  English: to spoil; ruin Gebrauch: (Akk)	verderben
+Verbs::Infinitiv → Präteritum	verdrießen	Präteritum: verdross  English: to annoy; vex Gebrauch: —	verdrießen
+Verbs::Infinitiv → Präteritum	vergessen	Präteritum: vergaß  English: to forget Gebrauch: Akk	vergessen
+Verbs::Infinitiv → Präteritum	verlieren	Präteritum: verlor  English: to lose Gebrauch: Akk	verlieren
+Verbs::Infinitiv → Präteritum	verschwinden	Präteritum: verschwand  English: to disappear Gebrauch: —	verschwinden
+Verbs::Infinitiv → Präteritum	verzeihen	Präteritum: verzieh  English: to forgive Gebrauch: Dat + Akk	verzeihen
+Verbs::Infinitiv → Präteritum	wachsen	Präteritum: wuchs  English: to grow Gebrauch: —	wachsen
+Verbs::Infinitiv → Präteritum	waschen	Präteritum: wusch  English: to wash Gebrauch: (Dat) + Akk	waschen
+Verbs::Infinitiv → Präteritum	weichen	Präteritum: wich  English: to yield; give way Gebrauch: —	weichen
+Verbs::Infinitiv → Präteritum	weisen	Präteritum: wies  English: to point; show Gebrauch: (Dat) + Akk	weisen
+Verbs::Infinitiv → Präteritum	wenden	Präteritum: wandte/wendete  English: to turn Gebrauch: Akk	wenden
+Verbs::Infinitiv → Präteritum	werben	Präteritum: warb  English: to advertise; recruit Gebrauch: (Akk)	werben
+Verbs::Infinitiv → Präteritum	werden	Präteritum: wurde  English: to be (passive auxiliary) Gebrauch: PASSIV	werden
+Verbs::Infinitiv → Präteritum	werden	Präteritum: wurde  English: to become Gebrauch: (Nom)	werden
+Verbs::Infinitiv → Präteritum	werfen	Präteritum: warf  English: to throw Gebrauch: Akk	werfen
+Verbs::Infinitiv → Präteritum	wiegen	Präteritum: wog  English: to weigh Gebrauch: Akk	wiegen
+Verbs::Infinitiv → Präteritum	winden	Präteritum: wand  English: to wind; twist Gebrauch: Akk	winden
+Verbs::Infinitiv → Präteritum	wissen	Präteritum: wusste  English: to know (a fact) Gebrauch: (Akk)	wissen
+Verbs::Infinitiv → Präteritum	wollen	Präteritum: wollte (+ Inf.)  English: to want Gebrauch: Modalverb	wollen
+Verbs::Infinitiv → Präteritum	wringen	Präteritum: wrang  English: to wring Gebrauch: —	wringen
+Verbs::Infinitiv → Präteritum	ziehen	Präteritum: zog  English: to pull; move Gebrauch: (Akk)	ziehen
+Verbs::Infinitiv → Präteritum	zwingen	Präteritum: zwang  English: to force Gebrauch: Akk + Inf.K.	zwingen
+Verbs::Infinitiv → Präsens	backen	Präsens: backt/bäckt  English: to bake Gebrauch: Akk	backen
+Verbs::Infinitiv → Präsens	befehlen	Präsens: befiehlt  English: to command; order Gebrauch: (Dat) + Inf.K.	befehlen
+Verbs::Infinitiv → Präsens	beginnen	Präsens: beginnt  English: to begin; start Gebrauch: Akk	beginnen
+Verbs::Infinitiv → Präsens	beißen	Präsens: beißt  English: to bite Gebrauch: Akk	beißen
+Verbs::Infinitiv → Präsens	bergen	Präsens: birgt  English: to recover; rescue; conceal Gebrauch: Akk	bergen
+Verbs::Infinitiv → Präsens	bersten	Präsens: birst  English: to burst; split Gebrauch: —	bersten
+Verbs::Infinitiv → Präsens	betrügen	Präsens: betrügt  English: to cheat; deceive Gebrauch: Akk	betrügen
+Verbs::Infinitiv → Präsens	bewegen	Präsens: bewegt  English: to move; induce Gebrauch: Akk + Inf.K.	bewegen
+Verbs::Infinitiv → Präsens	biegen	Präsens: biegt  English: to bend; turn Gebrauch: Akk	biegen
+Verbs::Infinitiv → Präsens	bieten	Präsens: bietet  English: to offer Gebrauch: Dat + Akk	bieten
+Verbs::Infinitiv → Präsens	binden	Präsens: bindet  English: to bind; tie Gebrauch: Akk	binden
+Verbs::Infinitiv → Präsens	bitten	Präsens: bittet  English: to ask; request Gebrauch: Akk + Inf.K.	bitten
+Verbs::Infinitiv → Präsens	blasen	Präsens: bläst  English: to blow Gebrauch: (Akk)	blasen
+Verbs::Infinitiv → Präsens	bleiben	Präsens: bleibt  English: to stay; remain Gebrauch: (Nom)	bleiben
+Verbs::Infinitiv → Präsens	braten	Präsens: brät/bratet  English: to fry; roast; grill Gebrauch: Akk	braten
+Verbs::Infinitiv → Präsens	brechen	Präsens: bricht  English: to break Gebrauch: (Dat) + Akk	brechen
+Verbs::Infinitiv → Präsens	brennen	Präsens: brennt  English: to burn Gebrauch: —	brennen
+Verbs::Infinitiv → Präsens	bringen	Präsens: bringt  English: to bring Gebrauch: Dat + Akk	bringen
+Verbs::Infinitiv → Präsens	denken	Präsens: denkt  English: to think Gebrauch: (Dat)	denken
+Verbs::Infinitiv → Präsens	dingen	Präsens: dingt  English: to hire; engage Gebrauch: Akk	dingen
+Verbs::Infinitiv → Präsens	dreschen	Präsens: drischt  English: to thresh Gebrauch: Akk	dreschen
+Verbs::Infinitiv → Präsens	dringen	Präsens: dringt  English: to penetrate; press Gebrauch: —	dringen
+Verbs::Infinitiv → Präsens	dürfen	Präsens: darf (+ Inf.)  English: may; to be allowed to Gebrauch: Modalverb	dürfen
+Verbs::Infinitiv → Präsens	empfehlen	Präsens: empfiehlt  English: to recommend Gebrauch: (Dat) + Inf.K.	empfehlen
+Verbs::Infinitiv → Präsens	erlöschen	Präsens: erlischt  English: to go out; expire Gebrauch: —	erlöschen
+Verbs::Infinitiv → Präsens	erschrecken	Präsens: erschrickt  English: to be startled; get frightened Gebrauch: —	erschrecken
+Verbs::Infinitiv → Präsens	erwägen	Präsens: erwägt  English: to consider Gebrauch: Akk	erwägen
+Verbs::Infinitiv → Präsens	essen	Präsens: isst  English: to eat Gebrauch: Akk	Essen
+Verbs::Infinitiv → Präsens	fahren	Präsens: fährt  English: to drive; travel Gebrauch: (Akk)	fahren
+Verbs::Infinitiv → Präsens	fallen	Präsens: fällt  English: to fall Gebrauch: —	fallen
+Verbs::Infinitiv → Präsens	fangen	Präsens: fängt  English: to catch Gebrauch: Akk	fangen
+Verbs::Infinitiv → Präsens	fechten	Präsens: ficht/fechtet  English: to fence; fight Gebrauch: —	fechten
+Verbs::Infinitiv → Präsens	finden	Präsens: findet  English: to find Gebrauch: Akk	finden
+Verbs::Infinitiv → Präsens	flechten	Präsens: flicht  English: to braid; weave Gebrauch: Akk	flechten
+Verbs::Infinitiv → Präsens	fliegen	Präsens: fliegt  English: to fly Gebrauch: (Akk)	fliegen
+Verbs::Infinitiv → Präsens	fliehen	Präsens: flieht  English: to flee Gebrauch: —	fliehen
+Verbs::Infinitiv → Präsens	fließen	Präsens: fließt  English: to flow Gebrauch: —	fließen
+Verbs::Infinitiv → Präsens	fressen	Präsens: frisst  English: to eat (animals) Gebrauch: Akk	fressen
+Verbs::Infinitiv → Präsens	frieren	Präsens: friert  English: to freeze; be cold Gebrauch: —	frieren
+Verbs::Infinitiv → Präsens	gären	Präsens: gärt  English: to ferment Gebrauch: —	gären
+Verbs::Infinitiv → Präsens	gebären	Präsens: gebiert/gebärt  English: to give birth Gebrauch: (Akk)	gebären
+Verbs::Infinitiv → Präsens	geben	Präsens: gibt  English: to give Gebrauch: Dat + Akk	geben
+Verbs::Infinitiv → Präsens	gedeihen	Präsens: gedeiht  English: to thrive Gebrauch: —	gedeihen
+Verbs::Infinitiv → Präsens	gehen	Präsens: geht  English: to go; walk Gebrauch: —	gehen
+Verbs::Infinitiv → Präsens	gelingen	Präsens: gelingt  English: to succeed Gebrauch: (Dat) + Inf.K.	gelingen
+Verbs::Infinitiv → Präsens	gelten	Präsens: gilt  English: to apply; be valid; count Gebrauch: —	gelten
+Verbs::Infinitiv → Präsens	genesen	Präsens: genest  English: to recover; convalesce Gebrauch: —	genesen
+Verbs::Infinitiv → Präsens	genießen	Präsens: genießt  English: to enjoy Gebrauch: Akk	genießen
+Verbs::Infinitiv → Präsens	geschehen	Präsens: geschieht  English: to happen Gebrauch: (Dat)	geschehen
+Verbs::Infinitiv → Präsens	gewinnen	Präsens: gewinnt  English: to win; gain Gebrauch: Akk	gewinnen
+Verbs::Infinitiv → Präsens	gießen	Präsens: gießt  English: to pour; water Gebrauch: Akk	gießen
+Verbs::Infinitiv → Präsens	gleichen	Präsens: gleicht  English: to resemble; equal Gebrauch: Dat	gleichen
+Verbs::Infinitiv → Präsens	gleiten	Präsens: gleitet  English: to glide; slide Gebrauch: —	gleiten
+Verbs::Infinitiv → Präsens	glimmen	Präsens: glimmt  English: to glow; smolder Gebrauch: —	glimmen
+Verbs::Infinitiv → Präsens	graben	Präsens: gräbt  English: to dig Gebrauch: (Dat) + Akk	graben
+Verbs::Infinitiv → Präsens	greifen	Präsens: greift  English: to grab; reach Gebrauch: —	greifen
+Verbs::Infinitiv → Präsens	haben	Präsens: hat  English: to have Gebrauch: Akk	haben
+Verbs::Infinitiv → Präsens	halten	Präsens: hält  English: to hold; stop Gebrauch: —	halten
+Verbs::Infinitiv → Präsens	hängen	Präsens: hängt  English: to hang Gebrauch: (Akk)	hängen
+Verbs::Infinitiv → Präsens	hauen	Präsens: haut  English: to hit; chop Gebrauch: —	hauen
+Verbs::Infinitiv → Präsens	heben	Präsens: hebt  English: to lift; raise Gebrauch: Akk	heben
+Verbs::Infinitiv → Präsens	heißen	Präsens: heißt  English: to be called; mean Gebrauch: —	heißen
+Verbs::Infinitiv → Präsens	helfen	Präsens: hilft  English: to help Gebrauch: Dat	helfen
+Verbs::Infinitiv → Präsens	kennen	Präsens: kennt  English: to know; be familiar with Gebrauch: Akk	kennen
+Verbs::Infinitiv → Präsens	klimmen	Präsens: klimmt  English: to climb Gebrauch: —	klimmen
+Verbs::Infinitiv → Präsens	klingen	Präsens: klingt  English: to sound Gebrauch: —	klingen
+Verbs::Infinitiv → Präsens	kneifen	Präsens: kneift  English: to pinch Gebrauch: Akk	kneifen
+Verbs::Infinitiv → Präsens	kommen	Präsens: kommt  English: to come Gebrauch: —	kommen
+Verbs::Infinitiv → Präsens	können	Präsens: kann (+ Inf.)  English: can; to be able to Gebrauch: Modalverb	können
+Verbs::Infinitiv → Präsens	kriechen	Präsens: kriecht  English: to crawl Gebrauch: —	kriechen
+Verbs::Infinitiv → Präsens	laden	Präsens: lädt  English: to load; invite Gebrauch: Akk	laden
+Verbs::Infinitiv → Präsens	lassen	Präsens: lässt (+ Inf.)  English: to let; leave Gebrauch: (Dat) + Akk	lassen
+Verbs::Infinitiv → Präsens	laufen	Präsens: läuft  English: to run; walk Gebrauch: (Akk)	laufen
+Verbs::Infinitiv → Präsens	leiden	Präsens: leidet  English: to suffer Gebrauch: —	leiden
+Verbs::Infinitiv → Präsens	leihen	Präsens: leiht  English: to lend; borrow Gebrauch: Dat + Akk	leihen
+Verbs::Infinitiv → Präsens	lesen	Präsens: liest  English: to read Gebrauch: Akk	lesen
+Verbs::Infinitiv → Präsens	liegen	Präsens: liegt  English: to lie; be located Gebrauch: —	liegen
+Verbs::Infinitiv → Präsens	lügen	Präsens: lügt  English: to lie (tell an untruth) Gebrauch: —	lügen
+Verbs::Infinitiv → Präsens	mahlen	Präsens: mahlt  English: to grind Gebrauch: Akk	mahlen
+Verbs::Infinitiv → Präsens	meiden	Präsens: meidet  English: to avoid Gebrauch: Akk	meiden
+Verbs::Infinitiv → Präsens	melken	Präsens: melkt  English: to milk Gebrauch: Akk	melken
+Verbs::Infinitiv → Präsens	messen	Präsens: misst  English: to measure Gebrauch: Akk	messen
+Verbs::Infinitiv → Präsens	mögen	Präsens: mag  English: to like Gebrauch: Akk	mögen
+Verbs::Infinitiv → Präsens	mögen	Präsens: möchte (+ Inf.)  English: would like Gebrauch: Modalverb	mögen
+Verbs::Infinitiv → Präsens	müssen	Präsens: muss (+ Inf.)  English: must; to have to Gebrauch: Modalverb	müssen
+Verbs::Infinitiv → Präsens	nehmen	Präsens: nimmt  English: to take Gebrauch: Akk	nehmen
+Verbs::Infinitiv → Präsens	nennen	Präsens: nennt  English: to name; call Gebrauch: Akk + Akk	nennen
+Verbs::Infinitiv → Präsens	pfeifen	Präsens: pfeift  English: to whistle Gebrauch: Akk	pfeifen
+Verbs::Infinitiv → Präsens	preisen	Präsens: preist  English: to praise Gebrauch: Akk	preisen
+Verbs::Infinitiv → Präsens	quellen	Präsens: quillt  English: to swell; well up Gebrauch: —	quellen
+Verbs::Infinitiv → Präsens	raten	Präsens: rät  English: to advise; guess Gebrauch: (Dat) + Inf.K.	raten
+Verbs::Infinitiv → Präsens	reiben	Präsens: reibt  English: to rub Gebrauch: Akk	reiben
+Verbs::Infinitiv → Präsens	reißen	Präsens: reißt  English: to tear; rip Gebrauch: —	reißen
+Verbs::Infinitiv → Präsens	reiten	Präsens: reitet  English: to ride (a horse) Gebrauch: (Akk)	reiten
+Verbs::Infinitiv → Präsens	rennen	Präsens: rennt  English: to run; race Gebrauch: —	rennen
+Verbs::Infinitiv → Präsens	riechen	Präsens: riecht  English: to smell Gebrauch: Akk	riechen
+Verbs::Infinitiv → Präsens	ringen	Präsens: ringt  English: to wrestle; struggle Gebrauch: —	ringen
+Verbs::Infinitiv → Präsens	rinnen	Präsens: rinnt  English: to trickle; flow Gebrauch: —	rinnen
+Verbs::Infinitiv → Präsens	rufen	Präsens: ruft  English: to call; shout Gebrauch: Akk	rufen
+Verbs::Infinitiv → Präsens	salzen	Präsens: salzt  English: to salt Gebrauch: Akk	salzen
+Verbs::Infinitiv → Präsens	saufen	Präsens: säuft  English: to drink (animals/colloquial) Gebrauch: Akk	saufen
+Verbs::Infinitiv → Präsens	saugen	Präsens: saugt  English: to suck Gebrauch: Akk	saugen
+Verbs::Infinitiv → Präsens	schaffen	Präsens: schafft  English: to create Gebrauch: Akk	schaffen
+Verbs::Infinitiv → Präsens	scheiden	Präsens: scheidet  English: to separate; divorce Gebrauch: (Akk)	scheiden
+Verbs::Infinitiv → Präsens	scheinen	Präsens: scheint  English: to shine; seem Gebrauch: —	scheinen
+Verbs::Infinitiv → Präsens	scheißen	Präsens: scheißt  English: to defecate (vulgar) Gebrauch: —	scheißen
+Verbs::Infinitiv → Präsens	schelten	Präsens: schilt  English: to scold Gebrauch: Akk	schelten
+Verbs::Infinitiv → Präsens	scheren	Präsens: schert  English: to shear Gebrauch: Akk	scheren
+Verbs::Infinitiv → Präsens	schieben	Präsens: schiebt  English: to push Gebrauch: Akk	schieben
+Verbs::Infinitiv → Präsens	schießen	Präsens: schießt  English: to shoot Gebrauch: (Akk)	schießen
+Verbs::Infinitiv → Präsens	schlafen	Präsens: schläft  English: to sleep Gebrauch: —	schlafen
+Verbs::Infinitiv → Präsens	schlagen	Präsens: schlägt  English: to hit; beat Gebrauch: Akk	schlagen
+Verbs::Infinitiv → Präsens	schleichen	Präsens: schleicht  English: to sneak; creep Gebrauch: —	schleichen
+Verbs::Infinitiv → Präsens	schleifen	Präsens: schleift  English: to grind; sharpen Gebrauch: Akk	schleifen
+Verbs::Infinitiv → Präsens	schließen	Präsens: schließt  English: to close; lock Gebrauch: Akk	schließen
+Verbs::Infinitiv → Präsens	schlingen	Präsens: schlingt  English: to gulp; wind Gebrauch: —	schlingen
+Verbs::Infinitiv → Präsens	schmeißen	Präsens: schmeißt  English: to throw Gebrauch: —	schmeißen
+Verbs::Infinitiv → Präsens	schmelzen	Präsens: schmilzt  English: to melt Gebrauch: (Akk)	schmelzen
+Verbs::Infinitiv → Präsens	schneiden	Präsens: schneidet  English: to cut Gebrauch: Akk	schneiden
+Verbs::Infinitiv → Präsens	schreiben	Präsens: schreibt  English: to write Gebrauch: (Dat) + Akk	schreiben
+Verbs::Infinitiv → Präsens	schreien	Präsens: schreit  English: to scream; shout Gebrauch: —	schreien
+Verbs::Infinitiv → Präsens	schreiten	Präsens: schreitet  English: to stride Gebrauch: —	schreiten
+Verbs::Infinitiv → Präsens	schweigen	Präsens: schweigt  English: to be silent Gebrauch: —	schweigen
+Verbs::Infinitiv → Präsens	schwellen	Präsens: schwillt  English: to swell Gebrauch: —	schwellen
+Verbs::Infinitiv → Präsens	schwimmen	Präsens: schwimmt  English: to swim Gebrauch: (Akk)	schwimmen
+Verbs::Infinitiv → Präsens	schwingen	Präsens: schwingt  English: to swing Gebrauch: —	schwingen
+Verbs::Infinitiv → Präsens	schwören	Präsens: schwört  English: to swear Gebrauch: (Dat) + Akk	schwören
+Verbs::Infinitiv → Präsens	sehen	Präsens: sieht  English: to see Gebrauch: Akk	sehen
+Verbs::Infinitiv → Präsens	sein	Präsens: ist  English: to be Gebrauch: (Nom)	sein
+Verbs::Infinitiv → Präsens	senden	Präsens: sendet  English: to send Gebrauch: Akk	senden
+Verbs::Infinitiv → Präsens	singen	Präsens: singt  English: to sing Gebrauch: Akk	singen
+Verbs::Infinitiv → Präsens	sinken	Präsens: sinkt  English: to sink Gebrauch: —	sinken
+Verbs::Infinitiv → Präsens	sinnen	Präsens: sinnt  English: to ponder Gebrauch: —	sinnen
+Verbs::Infinitiv → Präsens	sitzen	Präsens: sitzt  English: to sit Gebrauch: —	sitzen
+Verbs::Infinitiv → Präsens	sollen	Präsens: soll (+ Inf.)  English: should; to be supposed to Gebrauch: Modalverb	sollen
+Verbs::Infinitiv → Präsens	spalten	Präsens: spaltet  English: to split Gebrauch: Akk	spalten
+Verbs::Infinitiv → Präsens	speien	Präsens: speit  English: to spit; vomit Gebrauch: —	speien
+Verbs::Infinitiv → Präsens	spinnen	Präsens: spinnt  English: to spin Gebrauch: Akk	spinnen
+Verbs::Infinitiv → Präsens	sprechen	Präsens: spricht  English: to speak Gebrauch: Akk	sprechen
+Verbs::Infinitiv → Präsens	sprießen	Präsens: sprießt  English: to sprout Gebrauch: —	sprießen
+Verbs::Infinitiv → Präsens	springen	Präsens: springt  English: to jump Gebrauch: —	springen
+Verbs::Infinitiv → Präsens	stechen	Präsens: sticht  English: to sting; stab Gebrauch: —	stechen
+Verbs::Infinitiv → Präsens	stehen	Präsens: steht  English: to stand Gebrauch: (Akk)	stehen
+Verbs::Infinitiv → Präsens	stehlen	Präsens: stiehlt  English: to steal Gebrauch: (Dat) + Akk	stehlen
+Verbs::Infinitiv → Präsens	steigen	Präsens: steigt  English: to climb; rise Gebrauch: —	steigen
+Verbs::Infinitiv → Präsens	sterben	Präsens: stirbt  English: to die Gebrauch: —	sterben
+Verbs::Infinitiv → Präsens	stieben	Präsens: stiebt  English: to scatter; fly apart Gebrauch: —	stieben
+Verbs::Infinitiv → Präsens	stinken	Präsens: stinkt  English: to stink Gebrauch: —	stinken
+Verbs::Infinitiv → Präsens	stoßen	Präsens: stößt  English: to push; bump Gebrauch: (Akk)	stoßen
+Verbs::Infinitiv → Präsens	streichen	Präsens: streicht  English: to stroke; paint; cancel Gebrauch: Akk	streichen
+Verbs::Infinitiv → Präsens	streiten	Präsens: streitet  English: to argue Gebrauch: —	streiten
+Verbs::Infinitiv → Präsens	tragen	Präsens: trägt  English: to carry; wear Gebrauch: (Dat) + Akk	tragen
+Verbs::Infinitiv → Präsens	treffen	Präsens: trifft  English: to meet; hit Gebrauch: Akk	treffen
+Verbs::Infinitiv → Präsens	treiben	Präsens: treibt  English: to drive; propel Gebrauch: —	treiben
+Verbs::Infinitiv → Präsens	treten	Präsens: tritt  English: to step; kick Gebrauch: (Akk)	treten
+Verbs::Infinitiv → Präsens	trinken	Präsens: trinkt  English: to drink Gebrauch: Akk	Trinken
+Verbs::Infinitiv → Präsens	tun	Präsens: tut  English: to do Gebrauch: Akk	tun
+Verbs::Infinitiv → Präsens	verbleichen	Präsens: verbleicht  English: to fade Gebrauch: —	verbleichen
+Verbs::Infinitiv → Präsens	verderben	Präsens: verdirbt  English: to spoil; ruin Gebrauch: (Akk)	verderben
+Verbs::Infinitiv → Präsens	verdrießen	Präsens: verdrießt  English: to annoy; vex Gebrauch: —	verdrießen
+Verbs::Infinitiv → Präsens	vergessen	Präsens: vergisst  English: to forget Gebrauch: Akk	vergessen
+Verbs::Infinitiv → Präsens	verlieren	Präsens: verliert  English: to lose Gebrauch: Akk	verlieren
+Verbs::Infinitiv → Präsens	verschwinden	Präsens: verschwindet  English: to disappear Gebrauch: —	verschwinden
+Verbs::Infinitiv → Präsens	verzeihen	Präsens: verzeiht  English: to forgive Gebrauch: Dat + Akk	verzeihen
+Verbs::Infinitiv → Präsens	wachsen	Präsens: wächst  English: to grow Gebrauch: —	wachsen
+Verbs::Infinitiv → Präsens	waschen	Präsens: wäscht  English: to wash Gebrauch: (Dat) + Akk	waschen
+Verbs::Infinitiv → Präsens	weichen	Präsens: weicht  English: to yield; give way Gebrauch: —	weichen
+Verbs::Infinitiv → Präsens	weisen	Präsens: weist  English: to point; show Gebrauch: (Dat) + Akk	weisen
+Verbs::Infinitiv → Präsens	wenden	Präsens: wendet  English: to turn Gebrauch: Akk	wenden
+Verbs::Infinitiv → Präsens	werben	Präsens: wirbt  English: to advertise; recruit Gebrauch: (Akk)	werben
+Verbs::Infinitiv → Präsens	werden	Präsens: wird  English: to be (passive auxiliary) Gebrauch: PASSIV	werden
+Verbs::Infinitiv → Präsens	werden	Präsens: wird  English: to become Gebrauch: (Nom)	werden
+Verbs::Infinitiv → Präsens	werfen	Präsens: wirft  English: to throw Gebrauch: Akk	werfen
+Verbs::Infinitiv → Präsens	wiegen	Präsens: wiegt  English: to weigh Gebrauch: Akk	wiegen
+Verbs::Infinitiv → Präsens	winden	Präsens: windet  English: to wind; twist Gebrauch: Akk	winden
+Verbs::Infinitiv → Präsens	wissen	Präsens: weiß  English: to know (a fact) Gebrauch: (Akk)	wissen
+Verbs::Infinitiv → Präsens	wollen	Präsens: will (+ Inf.)  English: to want Gebrauch: Modalverb	wollen
+Verbs::Infinitiv → Präsens	wringen	Präsens: wringt  English: to wring Gebrauch: —	wringen
+Verbs::Infinitiv → Präsens	ziehen	Präsens: zieht  English: to pull; move Gebrauch: (Akk)	ziehen
+Verbs::Infinitiv → Präsens	zwingen	Präsens: zwingt  English: to force Gebrauch: Akk + Inf.K.	zwingen

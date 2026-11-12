@@ -1,0 +1,6 @@
+[
+ {"id":"a1","name":"General Vocabulary — A1","description":"Everyday words and first conversations","type":"general","pattern":"Schritte International A1","file":"vocabulary-a1.json"},
+ {"id":"a2","name":"General Vocabulary — A2","description":"More words for a wider world","type":"general","pattern":"Schritte International A2","file":"vocabulary-a2.json"},
+ {"id":"prepositions","name":"Verbs with Prepositions","description":"The little words that connect everything","type":"verb_preposition","pattern":"Preposition-","file":"verbs-prepositions.json"},
+ {"id":"irregular-verbs","name":"Irregular Verbs","description":"Infinitives and their changing forms","type":"irregular_verb","pattern":"Verbs-","file":"irregular-verbs.json"}
+]

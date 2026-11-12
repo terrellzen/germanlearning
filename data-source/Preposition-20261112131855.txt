@@ -1,0 +1,115 @@
+#separator:tab
+#html:false
+#deck column:1
+#tags column:4
+Preposition	abhängen ____ Ob wir fahren, hängt ____ Wetter ab.	abhängen von (+D) — depend on Ob wir fahren, hängt vom Wetter ab.	
+Preposition	achten ____ Bitte achte ____ den neuen Mantel.	achten auf (+A) — pay attention to Bitte achte auf den neuen Mantel.	
+Preposition	anfangen ____ Ich fange ____ der Übung an.	anfangen mit (+D) — start with Ich fange mit der Übung an.	
+Preposition	ankommen ____ Es kommt ____ den richtigen Preis an.	ankommen auf (+A) — depend on / come down to Es kommt auf den richtigen Preis an.	
+Preposition	antworten ____ Bitte antworten Sie heute ____ den Brief.	antworten auf (+A) — reply to Bitte antworten Sie heute auf den Brief.	
+Preposition	sich ärgern ____ Wir ärgern uns ____ den Regen.	sich ärgern über (+A) — be annoyed about Wir ärgern uns über den Regen.	
+Preposition	aufhören ____ Er hört um 17.00 Uhr ____ der Arbeit auf.	aufhören mit (+D) — stop doing Er hört um 17.00 Uhr mit der Arbeit auf.	
+Preposition	aufpassen ____ Ein Babysitter passt ____ kleine Kinder auf.	aufpassen auf (+A) — look after / watch Ein Babysitter passt auf kleine Kinder auf.	
+Preposition	sich aufregen ____ Deutsche regen sich ____ Unpünktlichkeit auf.	sich aufregen über (+A) — get upset about Deutsche regen sich über Unpünktlichkeit auf.	
+Preposition	ausgeben ____ Manche geben viel Geld ____ Schuhe aus.	ausgeben für (+A) — spend on Manche geben viel Geld für Schuhe aus.	
+Preposition	sich bedanken ____ Ich bedanke mich herzlich ____ dir.	sich bedanken bei (+D) — thank someone Ich bedanke mich herzlich bei dir.	
+Preposition	sich bedanken ____ Martin bedankt sich ____ das Geschenk.	sich bedanken für (+A) — give thanks for Martin bedankt sich für das Geschenk.	
+Preposition	beginnen ____ Wir beginnen pünktlich ____ dem Deutschkurs.	beginnen mit (+D) — begin with Wir beginnen pünktlich mit dem Deutschkurs.	
+Preposition	sich bemühen ____ Karla bemüht sich ____ eine Arbeit.	sich bemühen um (+A) — make an effort to get Karla bemüht sich um eine Arbeit.	
+Preposition	berichten ____ Der Reporter berichtet ____ die Wahlen.	berichten über (+A) — report on Der Reporter berichtet über die Wahlen.	
+Preposition	sich beschäftigen ____ Ich beschäftige mich gern ____ Pflanzen.	sich beschäftigen mit (+D) — occupy oneself with Ich beschäftige mich gern mit Pflanzen.	
+Preposition	sich beschweren ____ Der Gast beschwert sich ____ Kellner.	sich beschweren bei (+D) — complain to Der Gast beschwert sich beim Kellner.	
+Preposition	bestehen ____ Eheringe bestehen ____ Gold.	bestehen aus (+D) — consist of Eheringe bestehen aus Gold.	
+Preposition	bestehen ____ Ich bestehe ____ sofortiger Bezahlung des Autos.	bestehen auf (+D) — insist on Ich bestehe auf sofortiger Bezahlung des Autos.	
+Preposition	sich beteiligen ____ Viele Studenten beteiligen sich ____ den Streiks.	sich beteiligen an (+D) — participate in Viele Studenten beteiligen sich an den Streiks.	
+Preposition	sich bewerben ____ Er bewirbt sich ____ einer Bäckerei.	sich bewerben bei (+D) — apply to / at Er bewirbt sich bei einer Bäckerei.	
+Preposition	sich bewerben ____ Sie bewirbt sich ____ eine Stelle als Sekretärin.	sich bewerben um (+A) — apply for Sie bewirbt sich um eine Stelle als Sekretärin.	
+Preposition	sich beziehen ____ Meine Frage bezieht sich ____ Ihr Angebot.	sich beziehen auf (+A) — refer to Meine Frage bezieht sich auf Ihr Angebot.	
+Preposition	bitten ____ Der Redner bittet ____ Aufmerksamkeit.	bitten um (+A) — ask for Der Redner bittet um Aufmerksamkeit.	
+Preposition	danken ____ Sam dankt ____ Ritas Hilfe.	danken für (+A) — thank for Sam dankt für Ritas Hilfe.	
+Preposition	denken ____ Maria denkt oft ____ den Urlaub.	denken an (+A) — think of Maria denkt oft an den Urlaub.	
+Preposition	diskutieren ____ Das Kabinett diskutiert ____ eine neue Steuer.	diskutieren über (+A) — discuss Das Kabinett diskutiert über eine neue Steuer.	
+Preposition	einladen ____ Ich lade dich ____ meinem Geburtstag ein.	einladen zu (+D) — invite to Ich lade dich zu meinem Geburtstag ein.	
+Preposition	sich entscheiden ____ Kinder entscheiden sich gern ____ Schokolade.	sich entscheiden für (+A) — decide on Kinder entscheiden sich gern für Schokolade.	
+Preposition	sich entschließen ____ Karl entschließt sich ____ einem Studium.	sich entschließen zu (+D) — decide to undertake Karl entschließt sich zu einem Studium.	
+Preposition	sich entschuldigen ____ Tom entschuldigt sich ____ ihrem Mann.	sich entschuldigen bei (+D) — apologize to Tom entschuldigt sich bei ihrem Mann.	
+Preposition	sich entschuldigen ____ Ich entschuldige mich ____ das Verhalten meiner Katze.	sich entschuldigen für (+A) — apologize for Ich entschuldige mich für das Verhalten meiner Katze.	
+Preposition	sich erholen ____ ____ dem Schock muss ich mich erst erholen.	sich erholen von (+D) — recover from Von dem Schock muss ich mich erst erholen.	
+Preposition	sich erinnern ____ Wir erinnern uns gern ____ unser erstes Ehejahr.	sich erinnern an (+A) — remember Wir erinnern uns gern an unser erstes Ehejahr.	
+Preposition	erkennen ____ Man erkennt Pinocchio ____ seiner langen Nase.	erkennen an (+D) — recognize by Man erkennt Pinocchio an seiner langen Nase.	
+Preposition	sich erkundigen ____ Oma erkundigt sich oft ____ meinen Plänen.	sich erkundigen nach (+D) — inquire about Oma erkundigt sich oft nach meinen Plänen.	
+Preposition	erschrecken ____ Der Koch erschrickt ____ eine Maus.	erschrecken über (+A) — be startled by Der Koch erschrickt über eine Maus.	
+Preposition	erzählen ____ Ein Ostberliner erzählt ____ sein Leben in der ehemaligen DDR.	erzählen über (+A) — tell about Ein Ostberliner erzählt über sein Leben in der ehemaligen DDR.	
+Preposition	erzählen ____ Der Bischof erzählt ____ der Reise nach Rom.	erzählen von (+D) — tell about Der Bischof erzählt von der Reise nach Rom.	
+Preposition	fragen ____ Die Journalistin fragt ____ den Konsequenzen der Gesetzesänderung.	fragen nach (+D) — ask about Die Journalistin fragt nach den Konsequenzen der Gesetzesänderung.	
+Preposition	sich freuen ____ Kinder freuen sich ____ die Ferien.	sich freuen auf (+A) — look forward to Kinder freuen sich auf die Ferien.	
+Preposition	sich freuen ____ Jeder freut sich ____ eine Gehaltserhöhung.	sich freuen über (+A) — be happy about Jeder freut sich über eine Gehaltserhöhung.	
+Preposition	gehen ____ Immer geht es ____ Geld.	gehen um (+A) — be about Immer geht es um Geld.	
+Preposition	gehören ____ Das Elsass gehört ____ Frankreich.	gehören zu (+D) — belong to Das Elsass gehört zu Frankreich.	
+Preposition	sich gewöhnen ____ Ich kann mich nicht ____ die Zeitumstellung gewöhnen.	sich gewöhnen an (+A) — get used to Ich kann mich nicht an die Zeitumstellung gewöhnen.	
+Preposition	glauben ____ Teenager glauben ____ die große Liebe.	glauben an (+A) — believe in Teenager glauben an die große Liebe.	
+Preposition	gratulieren ____ Wir gratulieren dir ____ 18. Geburtstag.	gratulieren zu (+D) — congratulate on Wir gratulieren dir zum 18. Geburtstag.	
+Preposition	halten ____ Ich halte das ____ keine gute Idee.	halten für (+A) — consider to be Ich halte das für keine gute Idee.	
+Preposition	halten ____ Kinder halten nicht viel ____ Ordnung.	halten von (+D) — think of / have an opinion of Kinder halten nicht viel von Ordnung.	
+Preposition	sich handeln ____ Bei der Kopie handelt es sich nicht ____ Originalsoftware.	sich handeln um (+A) — be a matter of / be about Bei der Kopie handelt es sich nicht um Originalsoftware.	
+Preposition	handeln ____ Märchen handeln ____ Gut und Böse.	handeln von (+D) — be about Märchen handeln von Gut und Böse.	
+Preposition	helfen ____ Kann ich dir ____ Tischdecken helfen?	helfen bei (+D) — help with Kann ich dir beim Tischdecken helfen?	
+Preposition	hindern ____ Ein langsamer Fahrer hindert Greta ____ Überholen.	hindern an (+D) — prevent from Ein langsamer Fahrer hindert Greta am Überholen.	
+Preposition	hoffen ____ Im März hoffen alle ____ warme Frühlingstage.	hoffen auf (+A) — hope for Im März hoffen alle auf warme Frühlingstage.	
+Preposition	hören ____ Ich habe seit Sonntag nichts ____ Piet gehört.	hören von (+D) — hear from Ich habe seit Sonntag nichts von Piet gehört.	
+Preposition	sich informieren ____ Auf der Messe kann man sich ____ die neue Technologie informieren.	sich informieren über (+A) — get information about Auf der Messe kann man sich über die neue Technologie informieren.	
+Preposition	sich interessieren ____ Monika interessiert sich ____ ein Smartphone.	sich interessieren für (+A) — be interested in Monika interessiert sich für ein Smartphone.	
+Preposition	klagen ____ Tim klagt häufig ____ Kopfschmerzen.	klagen über (+A) — complain about Tim klagt häufig über Kopfschmerzen.	
+Preposition	kämpfen ____ Die Gewerkschaft kämpft ____ höhere Löhne.	kämpfen für (+A) — fight for Die Gewerkschaft kämpft für höhere Löhne.	
+Preposition	kommen ____ In der Besprechung kam es ____ einem Streit.	kommen zu (+D) — lead to / result in In der Besprechung kam es zu einem Streit.	
+Preposition	sich konzentrieren ____ Karl konzentriert sich ____ seine Hausaufgaben.	sich konzentrieren auf (+A) — concentrate on Karl konzentriert sich auf seine Hausaufgaben.	
+Preposition	sich kümmern ____ Im Pflegeheim kümmert man sich ____ alte Leute, die krank sind.	sich kümmern um (+A) — take care of Im Pflegeheim kümmert man sich um alte Leute, die krank sind.	
+Preposition	lachen ____ ____ einen guten Witz muss man laut lachen.	lachen über (+A) — laugh about Über einen guten Witz muss man laut lachen.	
+Preposition	leiden ____ Jeder fünfte Manager leidet ____ Burn-out.	leiden an (+D) — suffer from Jeder fünfte Manager leidet an Burn-out.	
+Preposition	leiden ____ Kaffeetrinker leiden ____ Schlafproblemen.	leiden unter (+D) — suffer from Kaffeetrinker leiden unter Schlafproblemen.	
+Preposition	nachdenken ____ Beamte müssen nicht ____ ihre Rente nachdenken.	nachdenken über (+A) — think about / reflect on Beamte müssen nicht über ihre Rente nachdenken.	
+Preposition	protestieren ____ Viele Menschen protestieren ____ Atomkraft.	protestieren gegen (+A) — protest against Viele Menschen protestieren gegen Atomkraft.	
+Preposition	rechnen ____ Im Januar muss man ____ Schnee rechnen.	rechnen mit (+D) — expect / count on Im Januar muss man mit Schnee rechnen.	
+Preposition	reden ____ Deine Mutter redet gern ____ Krankheiten.	reden über (+A) — talk about Deine Mutter redet gern über Krankheiten.	
+Preposition	reden ____ Großvater redet ____ den guten alten Zeiten.	reden von (+D) — talk of Großvater redet von den guten alten Zeiten.	
+Preposition	riechen ____ Hier riecht es ____ Kuchen.	riechen nach (+D) — smell of Hier riecht es nach Kuchen.	
+Preposition	sagen ____ Brigitte sagt ____ Dietmar, dass er oft lügt.	sagen über (+A) — say about Brigitte sagt über Dietmar, dass er oft lügt.	
+Preposition	sagen ____ Was sagst du ____ meinem neuen Haarschnitt?	sagen zu (+D) — say about / think of Was sagst du zu meinem neuen Haarschnitt?	
+Preposition	schicken ____ Die E-Mail schicke ich dir morgen.	schicken an (+A) — send to Die E-Mail schicke ich dir morgen.	
+Preposition	schicken ____ Der Allgemeinmediziner schickt den Patienten ____ einem Spezialisten.	schicken zu (+D) — send to Der Allgemeinmediziner schickt den Patienten zu einem Spezialisten.	
+Preposition	schimpfen ____ Alle schimpfen ____ den Regen.	schimpfen über (+A) — complain / rant about Alle schimpfen über den Regen.	
+Preposition	schmecken ____ Muscheln schmecken ____ Meerwasser.	schmecken nach (+D) — taste of Muscheln schmecken nach Meerwasser.	
+Preposition	schreiben ____ Bitte schreibe noch heute ____ deine Mutter.	schreiben an (+A) — write to Bitte schreibe noch heute an deine Mutter.	
+Preposition	sich schützen ____ Den Computer muss man ____ Hackern schützen.	sich schützen vor (+D) — protect from Den Computer muss man vor Hackern schützen.	
+Preposition	sein ____ Ich bin ____ die Abschaffung der Kinderarbeit.	sein für (+A) — be in favor of Ich bin für die Abschaffung der Kinderarbeit.	
+Preposition	sein ____ Viele sind ____ Steuererhöhungen.	sein gegen (+A) — be against Viele sind gegen Steuererhöhungen.	
+Preposition	sorgen ____ Kinder müssen im Alter ____ ihre Eltern sorgen.	sorgen für (+A) — care for Kinder müssen im Alter für ihre Eltern sorgen.	
+Preposition	sprechen ____ Ich spreche noch einmal ____ deinem Vater.	sprechen mit (+D) — speak with Ich spreche noch einmal mit deinem Vater.	
+Preposition	sprechen ____ Lass uns ____ deine Zukunft sprechen.	sprechen über (+A) — talk about Lass uns über deine Zukunft sprechen.	
+Preposition	sterben ____ Zwei Deutsche sind ____ der Grippe gestorben.	sterben an (+D) — die of Zwei Deutsche sind an der Grippe gestorben.	
+Preposition	streiten ____ Ich möchte nicht ____ dir streiten.	streiten mit (+D) — argue with Ich möchte nicht mit dir streiten.	
+Preposition	streiten ____ Die USA und Deutschland streiten ____ eine neue Strategie.	streiten über (+A) — argue about Die USA und Deutschland streiten über eine neue Strategie.	
+Preposition	teilnehmen ____ Nordkorea nimmt ____ der Fußball-WM teil.	teilnehmen an (+D) — participate in Nordkorea nimmt an der Fußball-WM teil.	
+Preposition	telefonieren ____ Hast du schon ____ dem Arzt telefoniert?	telefonieren mit (+D) — talk on the phone with Hast du schon mit dem Arzt telefoniert?	
+Preposition	sich treffen ____ Die Kanzlerin trifft sich täglich ____ ihrem Pressesprecher.	sich treffen mit (+D) — meet with Die Kanzlerin trifft sich täglich mit ihrem Pressesprecher.	
+Preposition	sich treffen ____ Sie treffen sich nur ____ einem kurzen Gespräch.	sich treffen zu (+D) — meet for Sie treffen sich nur zu einem kurzen Gespräch.	
+Preposition	überreden ____ Kann ich dich ____ einem Glas Wein überreden?	überreden zu (+D) — persuade to Kann ich dich zu einem Glas Wein überreden?	
+Preposition	sich unterhalten ____ Der Sänger unterhält sich ____ dem Bassisten.	sich unterhalten mit (+D) — converse with Der Sänger unterhält sich mit dem Bassisten.	
+Preposition	sich unterhalten ____ Die Modedesigner unterhalten sich ____ die neuesten Trends.	sich unterhalten über (+A) — talk about Die Modedesigner unterhalten sich über die neuesten Trends.	
+Preposition	sich verabreden ____ Heute verabrede ich mich ____ einer Freundin.	sich verabreden mit (+D) — arrange to meet with Heute verabrede ich mich mit einer Freundin.	
+Preposition	sich verabschieden ____ Nun wollen wir uns ____ euch verabschieden.	sich verabschieden von (+D) — say goodbye to Nun wollen wir uns von euch verabschieden.	
+Preposition	vergleichen ____ Vergleichen Sie München ____ Berlin.	vergleichen mit (+D) — compare with Vergleichen Sie München mit Berlin.	
+Preposition	sich verlassen ____ ____ mich kann man sich verlassen.	sich verlassen auf (+A) — rely on Auf mich kann man sich verlassen.	
+Preposition	sich verlieben ____ Britta hat sich ____ das alte Bauernhaus verliebt.	sich verlieben in (+A) — fall in love with Britta hat sich in das alte Bauernhaus verliebt.	
+Preposition	sich verstehen ____ Daniel versteht sich gut ____ seinem Chef.	sich verstehen mit (+D) — get along with Daniel versteht sich gut mit seinem Chef.	
+Preposition	verstehen ____ Verstehst du etwas ____ Elektrik?	verstehen von (+D) — know about Verstehst du etwas von Elektrik?	
+Preposition	sich vorbereiten ____ Karl bereitet sich ____ eine Präsentation vor.	sich vorbereiten auf (+A) — prepare for Karl bereitet sich auf eine Präsentation vor.	
+Preposition	warnen ____ Man hatte ihn ____ den hohen Kosten für das alte Auto gewarnt.	warnen vor (+D) — warn about Man hatte ihn vor den hohen Kosten für das alte Auto gewarnt.	
+Preposition	warten ____ Hier wartet man lange ____ einen Bus.	warten auf (+A) — wait for Hier wartet man lange auf einen Bus.	
+Preposition	sich wenden ____ Bitte wenden Sie sich ____ die Buchhaltung.	sich wenden an (+A) — contact / turn to Bitte wenden Sie sich an die Buchhaltung.	
+Preposition	werden ____ Unter null Grad wird Wasser ____ Eis.	werden zu (+D) — turn into Unter null Grad wird Wasser zu Eis.	
+Preposition	wissen ____ Ich weiß nichts ____ neuen Computern für unser Team.	wissen von (+D) — know about Ich weiß nichts von neuen Computern für unser Team.	
+Preposition	sich wundern ____ Viele Deutsche wundern sich ____ die plötzlich so hohen Stromkosten.	sich wundern über (+A) — be surprised about Viele Deutsche wundern sich über die plötzlich so hohen Stromkosten.	
+Preposition	zuschauen ____ Kann ich dir ____ der Reparatur zuschauen?	zuschauen bei (+D) — watch someone doing Kann ich dir bei der Reparatur zuschauen?	
+Preposition	zusehen ____ Willst du mir ____ Kochen zusehen?	zusehen bei (+D) — watch someone doing Willst du mir beim Kochen zusehen?	
+Preposition	zweifeln ____ John zweifelt ____, dass sein Sohn die Wahrheit gesagt hat.	zweifeln an (+D) — doubt John zweifelt daran, dass sein Sohn die Wahrheit gesagt hat.	

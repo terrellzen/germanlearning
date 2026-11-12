@@ -1,0 +1,70 @@
+[
+  {
+    "collection": "a1",
+    "source": "Schritte International A1 Book 1+2 Deutsche - English-20261112131846.txt",
+    "records": 2608,
+    "entries": 2497,
+    "examples": 2497,
+    "translatedExamples": 2497,
+    "missingExamples": 0,
+    "metadata": {
+      "separator": "tab",
+      "html": "false",
+      "deck column": "1",
+      "tags column": "4"
+    },
+    "warnings": []
+  },
+  {
+    "collection": "a2",
+    "source": "Schritte International A2 Book 3+4 Deutsche - English-20261112131834.txt",
+    "records": 2006,
+    "entries": 1909,
+    "examples": 1909,
+    "translatedExamples": 1909,
+    "missingExamples": 0,
+    "metadata": {
+      "separator": "tab",
+      "html": "false",
+      "deck column": "1",
+      "tags column": "4"
+    },
+    "warnings": []
+  },
+  {
+    "collection": "prepositions",
+    "source": "Preposition-20261112131855.txt",
+    "records": 111,
+    "entries": 111,
+    "examples": 111,
+    "translatedExamples": 111,
+    "missingExamples": 0,
+    "metadata": {
+      "separator": "tab",
+      "html": "false",
+      "deck column": "1",
+      "tags column": "4"
+    },
+    "warnings": [
+      "Meaning/example boundaries use reviewed per-entry mappings; raw combined field preserved. New unmapped records use gap-fill exercises."
+    ]
+  },
+  {
+    "collection": "irregular-verbs",
+    "source": "Verbs-20261112131709.txt",
+    "records": 720,
+    "entries": 180,
+    "examples": 180,
+    "translatedExamples": 180,
+    "missingExamples": 0,
+    "metadata": {
+      "separator": "tab",
+      "html": "false",
+      "deck column": "1",
+      "tags column": "4"
+    },
+    "warnings": [
+      "Forms retained verbatim; grammatical person unspecified."
+    ]
+  }
+]

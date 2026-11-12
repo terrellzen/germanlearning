@@ -1,0 +1,36 @@
+{
+  "collections": [
+    {
+      "id": "a1",
+      "name": "General Vocabulary — A1",
+      "description": "Everyday words and first conversations",
+      "type": "general",
+      "file": "vocabulary-a1.json",
+      "count": 2497
+    },
+    {
+      "id": "a2",
+      "name": "General Vocabulary — A2",
+      "description": "More words for a wider world",
+      "type": "general",
+      "file": "vocabulary-a2.json",
+      "count": 1909
+    },
+    {
+      "id": "prepositions",
+      "name": "Verbs with Prepositions",
+      "description": "The little words that connect everything",
+      "type": "verb_preposition",
+      "file": "verbs-prepositions.json",
+      "count": 111
+    },
+    {
+      "id": "irregular-verbs",
+      "name": "Irregular Verbs",
+      "description": "Infinitives and their changing forms",
+      "type": "irregular_verb",
+      "file": "irregular-verbs.json",
+      "count": 180
+    }
+  ]
+}

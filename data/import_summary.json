@@ -1,0 +1,18 @@
+{
+  "source_records": {
+    "Schritte International A1 Book 1+2 Deutsche - English-20261112131846.txt": 2608,
+    "Schritte International A2 Book 3+4 Deutsche - English-20261112131834.txt": 2006,
+    "Verbs-20261112131709.txt": 720,
+    "Preposition-20261112131855.txt": 111
+  },
+  "vocabulary_entries": 4399,
+  "vocabulary_rows_merged": 215,
+  "vocabulary_types": {
+    "other": 1227,
+    "noun": 2525,
+    "verb": 647
+  },
+  "irregular_verbs": 180,
+  "prepositions": 111,
+  "preserved_source_records": 5445
+}
