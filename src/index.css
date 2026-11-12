@@ -215,3 +215,5 @@ footer { display: flex; justify-content: space-between; gap: 20px; margin-top: 4
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+.theme { display: inline-flex; align-items: center; gap: 7px; }
+.theme::before { content: ""; width: 11px; height: 11px; border: 1px solid currentColor; border-radius: 50%; box-shadow: inset 4px 0 currentColor; }
