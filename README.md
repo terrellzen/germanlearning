@@ -101,7 +101,7 @@ git push origin main
 npm run deploy:pages
 ```
 
-`deploy:pages` validates vocabulary, runs tests, builds with the repository base path, publishes only `dist/` contents to `gh-pages` without force-pushing, and configures Pages to serve that branch. The temporary checkout is removed afterwards. `build.json` on the deployed site identifies the source commit. Check publication status with:
+`deploy:pages` validates vocabulary, runs tests, reads the GitHub Pages domain setting and builds with `/` for a custom domain or the repository base path otherwise, publishes only `dist/` contents to `gh-pages` without force-pushing, and configures Pages to serve that branch. The temporary checkout is removed afterwards. `build.json` on the deployed site identifies the source commit. The deployment preserves the configured custom domain in `CNAME`. The current public address is https://stillwort.ttimetech.org/. Check publication status with:
 
 ```sh
 gh api repos/terrellzen/germanlearning/pages/builds/latest
